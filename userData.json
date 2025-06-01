@@ -288,5 +288,1397 @@
         }
       ]
     }
+  },
+  {
+    "ID": 30,
+    "Name": "Luigi Di Marino",
+    "Email": "luigi.marino@uni-wuerzburg.de",
+    "Position": "Ph.D. student",
+    "Affiliation": "University of Wuerzburg",
+    "Background": "I am currently working under the supervision of Prof. Dominik Neuenfeld and Prof. Johanna Erdmenger on a project that leverages insights from high-energy physics to enhance machine learning architectures. Specifically, we are investigating hyperbolic neural networks and exploring ways to improve their performance. Our research focuses on generalising the properties of data-embeddings and operations in hyperbolic latent spaces to more general manifolds, with potential applications in both particle physics and gravity.",
+    "ML_Experience": "I began working in Machine Learning this January, with a particular interest in data embedding techniques and neural network design\u2014especially in the hyperbolic setup. More recently, I've also started exploring the Lorentz-equivariant model  proposed by Prof. Plehn's group.",
+    "Motivation": "I would be genuinely excited about the opportunity to attend your summer school, as it would allow me to deepen my knowledge through a series of high-level lectures and, in particular, to explore topics such as generative machine learning and representational learning. It would also offer a valuable chance to engage with leading experts in the field and connect with fellow PhD students who share my enthusiasm for this exciting area of research.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "High-Energy Physics and Machine Learning",
+          "research_interest_long_description": "Currently, Max is focused on the intersection of high-energy physics and machine learning. He works under the guidance of Professors Dominik Neuenfeld and Johanna Erdmenger, investigating ways to apply insights from particle physics to enhance machine learning architectures. His work emphasizes the use of hyperbolic neural networks, aiming to improve their performance and generalize data embeddings and operations within hyperbolic latent spaces. This innovative approach holds potential applications across both particle physics and the study of gravity, making significant strides within the domain.",
+          "font_awesome_icon": "fas fa-atom"
+        },
+        {
+          "research_interest_title": "Hyperbolic Neural Networks",
+          "research_interest_long_description": "Max's keen interest in machine learning has led him to specialize in hyperbolic neural networks. Since starting his journey in this field, he has been particularly captivated by data embedding techniques and neural network design, especially in hyperbolic settings. His research explores how these advanced architectures can be designed to better fit complex data structures, improving their overall effectiveness. This exploration is crucial as it opens doors to novel approaches in deep learning methods tailored for specific scientific applications.",
+          "font_awesome_icon": "fas fa-brain"
+        },
+        {
+          "research_interest_title": "Generative Machine Learning and Representational Learning",
+          "research_interest_long_description": "Max is excited about the advancements in generative machine learning and representational learning. He recognizes these areas as critical in creating systems that can understand and generate data based on learned representations. His motivation to delve deeper into these topics is fueled by the chance to learn from experts and engage with a community of passionate researchers. He aims to leverage insights from his current work on hyperbolic neural networks to contribute to the ongoing discourse in generative models, paving the way for innovative applications in various fields.",
+          "font_awesome_icon": "fas fa-cog"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 66,
+    "Name": "Klaudia Dilcher",
+    "Email": "k.dilcher@cent.uw.edu.pl",
+    "Position": "Ph.D. student",
+    "Affiliation": "University of Warszaw",
+    "Background": "I work in estimation theory applied to atomic systems, focusing on inference of magnetic fields using atomic sensors. These systems generate noisy, time-series data with limited sampling rates and low signal-to-noise ratios, in some scenarios quantum backaction and squeezing must be taken into account. So far, I have used Bayesian model-based methods for estimating constant and time varying magnetic fields. In the future, I aim to explore machine learning as a versatile approach for estimating magnetic fields for both classical and quantum sensors.",
+    "ML_Experience": "I have foundational knowledge of machine learning, including basic classification schemes and core concepts such as supervised learning and model evaluation. While I have limited hands-on experience, I am a fast learner with a strong background in statistical inference, data analysis and programming. I am highly motivated to apply ML techniques to estimation problems in atomic systems and eager to deepen my practical skills through research and experimentation.",
+    "Motivation": "At the school, I hope to gain practical experience with machine learning techniques. I aim to deepen my understanding of how ML can complement model-based approaches in the estimation of magnetic fields from atomic sensors. By engaging with experts and peers, I hope to identify suitable algorithms for both classical and quantum data, and develop the skills to implement and adapt them effectively. Ultimately, I want to integrate ML into my research to enhance the performance and robustness of field estimation methods.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Estimation Theory",
+          "research_interest_long_description": "Jakub's research revolves around estimation theory applied to atomic systems, particularly in the context of inferring magnetic fields using atomic sensors. He focuses on addressing the challenges posed by noisy, time-series data that comes with limited sampling rates and low signal-to-noise ratios. Jakub has employed Bayesian model-based methods to estimate both constant and time-varying magnetic fields, taking into account factors like quantum backaction and squeezing phenomena. His work aims to advance the precision and reliability of measurements in atomic systems.",
+          "font_awesome_icon": "fas fa-chart-line"
+        },
+        {
+          "research_interest_title": "Machine Learning Applications",
+          "research_interest_long_description": "With a strong foundation in machine learning concepts such as supervised learning and model evaluation, Jakub is keen on exploring how machine learning can enhance traditional estimation methods in atomic systems. He aims to bridge the gap between classical statistical techniques and modern machine learning algorithms to tackle estimation challenges. Despite his limited hands-on experience, he is driven to deepen his practical skills and apply ML techniques for magnetic field estimation, aspiring to leverage machine learning's versatility for both classical and quantum sensor data.",
+          "font_awesome_icon": "fas fa-robot"
+        },
+        {
+          "research_interest_title": "Quantum Data Analysis",
+          "research_interest_long_description": "Jakub's future research goals include investigating the application of machine learning algorithms in the analysis and estimation of quantum data. He is particularly interested in the unique complexities that quantum systems present and how ML can be utilized to interpret and enhance measurements. By fostering collaborations and learning from domain experts, Jakub aims to understand and implement innovative algorithms that complement the existing model-based approaches, ultimately improving the robustness of magnetic field estimation in quantum environments.",
+          "font_awesome_icon": "fas fa-flask"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 59,
+    "Name": "Svenja Frey",
+    "Email": "svenja.frey@nbi.ku.dk",
+    "Position": "Advanced Master Student",
+    "Affiliation": "Copenhagen University",
+    "Background": "I am working in climate science, specifically with climate models, so the data that we are usually working with is unbelievably large and has multiple 4D variables (time, latitude, longitude, depth). Therefore, I am interested in applying ML to reduce those data sizes to more \"manageable\" timeseries or fields. However, there are also commonly used 1D climate indexes (e.g. AMOC), where we are interested in their interaction with each other and if ML can be leveraged to analyze very long timeseries efficiently. More precisely, we have about 15000 years of monthly data with circa 100x100x30 latxlonxdepth resultion from the last glacial period from an earth system model.",
+    "ML_Experience": "I have taken multiple university courses on ML during my Master and am currently working on my thesis topic that involves using ML in climate science. Ranging from simple self-coded NNs over complex CNN applications to LRP and gradient based XAI methods, I am more focused on the application side of ML. However, it feels like I have just \"scratched the surface\" of the possibilities of ML in physics / climate science, and I am very excited to learn and explore more.",
+    "Motivation": "I am specifically interested in ML methods that bridge the gap between machine learning (an inherently statistical tool) and the causal structures that we are interested in studying in climate science. We don't necessarily care if things are correlated, but whether they are causally connected. This is a very difficult task, so I hope to expand on this during the summer school and see how this problem can be dealt with in new ML applications (e.g. Physics informed ML).",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Climate Modeling and Machine Learning",
+          "research_interest_long_description": "As an advanced master student at Copenhagen University, the research of the student focuses on the intersection of climate science and machine learning. Specifically, this research aims to harness machine learning techniques to analyze large-scale climate model data characterized by multiple four-dimensional variables. With a historical dataset spanning 15,000 years, the student is particularly interested in reducing data complexity to extract meaningful time series. This involves exploring how machine learning can efficiently analyze interactions between commonly used 1D climate indexes and their implications for understanding climate phenomena.",
+          "font_awesome_icon": "fas fa-atom"
+        },
+        {
+          "research_interest_title": "Causal Inference in Climate Studies",
+          "research_interest_long_description": "The student is motivated to advance the understanding of causal relationships within climate science through innovative machine learning methods. Unlike traditional statistical analysis, the aim is to establish whether specific climate phenomena are causally connected, rather than merely correlated. This entails a rigorous exploration of the principles of causal inference and the application of physics-informed machine learning techniques, setting a foundation for more reliable predictions and insights into climate dynamics that can lead to effective policy decisions and scientific advancements.",
+          "font_awesome_icon": "fas fa-ellipsis-h"
+        },
+        {
+          "research_interest_title": "Exploratory Machine Learning Applications",
+          "research_interest_long_description": "The student embodies a growing passion for exploring the various applications of machine learning within the context of climate science. With a solid foundation built through university coursework covering a spectrum of machine learning methods from neural networks to explainable AI methods, the student aims to delve deeper into the untapped potential of these techniques in physics. The goal is to not only apply existing machine learning tools but also to enhance and innovate new methodologies that can significantly contribute to the understanding of climate systems and their reactions to variability over time.",
+          "font_awesome_icon": "fas fa-rocket"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 38,
+    "Name": "PRAKRITISH GOGOI",
+    "Email": "prakritishgogoi@gmail.com",
+    "Position": "Ph.D",
+    "Affiliation": "Sorbonne Universit\u00e9",
+    "Background": "I am currently working on open quantum systems. My project involves investigating the environment induced effects on superconducting circuits used for quantum computing. Primary effect that we want to study and possibly theorise a way to mitigate is the effect of relaxation of energy loss of atoms that form the basis of quantum information processing. One way machine learning could be helpful is to find the right choice of parameters to theorise a workaround to environment induced noise in the superconducting systems especially as they are complicated which means a wide range of parameters to consider.",
+    "ML_Experience": "I have had a course on statistical machine learning in my masters which involved a project on constructing Lagrangian Neural Networks to capture physics of some dynamical systems.",
+    "Motivation": "My main motivation in this school is to get a better idea of physics informed neural networks and use it in my domain of open quantum systems research. My PhD is also centred around quantum computing in general so quantum algorithms based on generative machine learning(such as GQE) will really help me a lot to implement effective algorithms to simulate quantum systems.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Open Quantum Systems",
+          "research_interest_long_description": "Currently, he is deeply engaged in exploring open quantum systems, particularly focusing on the environmental effects that impact superconducting circuits used in quantum computing. His research aims to understand and theorize methods to mitigate energy loss due to relaxation, which serves as a critical hindrance to efficient quantum information processing. This involves analyzing various parameters to devise effective solutions for managing noise in the superconducting systems, thereby enhancing the reliability of quantum computations.",
+          "font_awesome_icon": "fas fa-atom"
+        },
+        {
+          "research_interest_title": "Machine Learning Applications",
+          "research_interest_long_description": "He is particularly interested in the intersection of machine learning and quantum physics. With a solid foundation in statistical machine learning, gained during his master's studies, he aims to leverage machine learning techniques such as Lagrangian Neural Networks to improve the modeling of complex quantum systems. His goal is to harness machine learning for optimizing parameters that can mitigate environmental noise affecting superconducting circuits, a crucial step in advancing quantum computing technology.",
+          "font_awesome_icon": "fas fa-brain"
+        },
+        {
+          "research_interest_title": "Physics-Informed Neural Networks",
+          "research_interest_long_description": "His ambition during this school is to deepen his understanding of physics-informed neural networks (PINNs) and apply them to the challenges within open quantum systems research. By combining his knowledge of quantum computing and generative machine learning algorithms, such as GQE, he seeks to implement effective algorithms that can simulate complex quantum systems. This innovative approach not only promises advancements in quantum computation but also enhances the overall understanding of quantum mechanics in the context of machine learning.",
+          "font_awesome_icon": "fas fa-cogs"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 13,
+    "Name": "Eva Groenendijk",
+    "Email": "eva.groenendijk@unimi.it",
+    "Position": "Ph.D.",
+    "Affiliation": "University of Milan, INFN Milan",
+    "Background": "Theoretical particle physics, mainly perturbative QCD and Parton Distribution Functions (PDFs). I am working within the NNPDF collaboration and the AIPHY network. I work on fitting PDFs with collider data using machine learning. I am also working on explainability of the neural network, and optimising the fitting pipeline. NNPDF uses cross section data from different colliders to train the network and fit the PDFs. At the moment I am working on an experiment to use a Bayesian Neural Network to gain insight on the NN and to optimise it, but I am very open to learn about new methods.",
+    "ML_Experience": "I have only started using Machine Learning in the beginning of my PhD in October. Since it is an important part of the project I am working on, I'm planning to use it a lot in the future. My experience in Machine Learning is mainly from NNPDF, where I am learning to use Keras. Next to this, within the AIPHY project I am working with a Bayesian Neural Network. I have learned about Tensorflow and Pytorch through a PhD course and am applying this knowledge in the project on BNNs.",
+    "Motivation": "As previously stated, I have recently started to apply machine learning to particle physics. I am mainly hoping that the school gives me more insight in the different methods that are available, and how/if I can apply these to the data I am working with. Since the project on BNNs is still an \"experiment\", I am interested to learn if there would be other methods that could be used. In the NNPDF and AIPHY projects I am planning to use machine learning a lot, and it will be very good to see what the options are and what are good ways to tackle problems one may encounter.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Perturbative QCD and PDFs",
+          "research_interest_long_description": "Luca focuses on the theoretical aspects of perturbative Quantum Chromodynamics (QCD) and the investigation of Parton Distribution Functions (PDFs). Through his work with the NNPDF collaboration, he seeks to improve the fitting of PDFs using collider data. This involves leveraging cutting-edge techniques to enhance model accuracy and precision. By integrating machine learning into his research, Luca is pioneering new methodologies to analyze complex datasets from various colliders, ultimately aiming to deepen the understanding of particle interactions at the fundamental level.",
+          "font_awesome_icon": "fas fa-atom"
+        },
+        {
+          "research_interest_title": "Machine Learning in Particle Physics",
+          "research_interest_long_description": "As an emerging researcher in the application of machine learning to particle physics, Luca aims to explore innovative techniques for analyzing collider data. His current focus on deploying neural networks, particularly Bayesian Neural Networks, is an exciting experimental endeavor within the AIPHY project. Luca's interest lies not only in implementing machine learning models but also in enhancing their explainability and optimizing fitting pipelines. His proactive engagement in learning Keras, Tensorflow, and Pytorch underpins his commitment to mastering these tools for research progression.",
+          "font_awesome_icon": "fas fa-brain"
+        },
+        {
+          "research_interest_title": "Optimization of Fitting Algorithms",
+          "research_interest_long_description": "Luca is dedicated to optimizing fitting algorithms used in the NNPDF framework to improve the extraction of Parton Distribution Functions from experimental data. This involves experimenting with various computational methods and leveraging machine learning techniques to streamline the fitting process. His aim is to enhance the efficiency and accuracy of obtaining PDFs, allowing for more precise predictions in high-energy physics experiments. Through his collaboration with experienced researchers, Luca is eager to learn and incorporate advanced optimization strategies into his methodologies.",
+          "font_awesome_icon": "fas fa-cogs"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 19,
+    "Name": "Archi Gupta",
+    "Email": "archi.gupta@unige.ch",
+    "Position": "PhD",
+    "Affiliation": "PhD student",
+    "Background": "Hii, I am a PhD student in the University of Geneva. The goal of my PhD project is to build single photon sources using the platform of rare earth ions. In this project, I am doing simulations based on Tidy3D and using optimisation algorithm like BFGS to determine the optimal parameters for the nano cavity which I want to fabricate to achieve high Purcell enhancement.    Before my PhD, I have also worked with quantum algorithms (BV algorithm) to determine its efficiency over classical algorithm.    I am quite motivated to learn machine learning as it will be really useful in many tasks related to quantum information.",
+    "ML_Experience": "I don't have any machine learning experience but I am excited to learn about it.",
+    "Motivation": "I hope to learn more about improving algorithms and machine learning in order to be able to do tasks like error correction and data analysis.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Single Photon Sources",
+          "research_interest_long_description": "Hii is focusing on developing single photon sources using rare earth ions during her PhD at the University of Geneva. This involves complex simulations with Tidy3D and implementing optimization algorithms like BFGS to fine-tune the parameters for a nano cavity. Her ultimate goal is to achieve a high Purcell enhancement, which is critical for advancements in quantum technologies and applications.",
+          "font_awesome_icon": "fas fa-lightbulb"
+        },
+        {
+          "research_interest_title": "Quantum Algorithms",
+          "research_interest_long_description": "Prior to her PhD, Hii worked on quantum algorithms, specifically examining the efficiency of the Bernstein-Vazirani (BV) algorithm compared to classical counterparts. Her experiences in this area have provided her with a strong foundation in quantum computational theory and algorithms, which she leverages to enhance her current research into photonic sources. She is eager to further explore how quantum algorithms can influence the development of quantum technologies.",
+          "font_awesome_icon": "fas fa-calculator"
+        },
+        {
+          "research_interest_title": "Machine Learning in Quantum Information",
+          "research_interest_long_description": "Although Hii currently has no experience in machine learning, she is highly motivated to learn how it can be applied within quantum information tasks. Her interests lie in employing machine learning techniques for enhancing algorithmic efficiency, particularly in error correction and data analysis. Hii believes that integrating machine learning with her background in quantum mechanics will be pivotal for her growth as a researcher.",
+          "font_awesome_icon": "fas fa-robot"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 53,
+    "Name": "ALEXANDRA HASLUNDGOURLEY",
+    "Email": "alexandra.haslund-gourley@aya.yale.edu",
+    "Position": "Masters Student",
+    "Affiliation": "University of Copenhagen",
+    "Background": "I'm a Computational Physics Master's student at KU, passionate about the intersection of machine learning and physics. My research interests flow in both directions: I currently work with KU's Dr. Inar Timiryasov and Dr. Jean-Loup Tastet, applying physics-inspired analysis to understand the computational mechanisms of large language models. We focus on analyzing activation matrices produced by these models, employing statistical methods to characterize their behavior as complex dynamical systems.    This summer, and for my thesis work, I plan to explore how diffusion models can predict stable atomic configurations. I'll ground this research using DTU's Computational 2D Materials Database (C2DB), which contains structural, thermodynamic, elastic, electronic, magnetic, and optical properties of approximately 4,000 two-dimensional materials across over 40 different crystal structures. My goal is to incorporate physics priors into these models to produce more reliable and interpretable predictions, following the approach outlined in \u201cA generative artificial intelligence framework based on a molecular diffusion model for the design of metal-organic frameworks for carbon capture\u201d.",
+    "ML_Experience": "My formal ML education includes courses in unsupervised learning, computer vision, and deep learning. I spent a year as a research fellow at Stanford applying computer vision for environmental monitoring. In my current LLM mechanistic interpretability research, I run inference with and fine-tune open-source models while extracting mid-computation activation matrices for analysis. Additionally, I've used graph neural networks to predict band gap energies of molecules as part of an advanced statistics course.",
+    "Motivation": "I aim to strengthen my skills in physics-informed machine learning and gain deeper insights into how ML can enhance our modeling and understanding of physical systems. I'm excited to learn from both the distinguished speakers and fellow participants, and to engage in hands-on exercises. I'm particularly interested in methods that integrate physics priors into models, as well as approaches that use physics to interpret and demystify model behavior\u2014an area I consider crucial for making ML more transparent and trustworthy in scientific applications.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Physics-Informed Machine Learning",
+          "research_interest_long_description": "As a Master's student at the University of Copenhagen, [Name] is exploring the intersection of machine learning and physics, specifically focusing on physics-inspired models that enhance the interpretability of machine learning predictions. This research includes analyzing activation matrices of large language models to understand their behavior as complex dynamical systems. By integrating physics principles into machine learning frameworks, [Name] aims to develop models that are not only predictive but also reliable and interpretable, making significant contributions to the field of computational physics.",
+          "font_awesome_icon": "fas fa-brain"
+        },
+        {
+          "research_interest_title": "Diffusion Models in Material Science",
+          "research_interest_long_description": "[Name] is leveraging diffusion models to predict stable atomic configurations, applying these techniques to explore two-dimensional materials utilizing DTU's Computational 2D Materials Database. This research involves analyzing a diverse array of properties across thousands of materials, with the goal of generating robust predictions informed by physical insights. [Name]'s evolving expertise in computational materials science underlines an ambition to bridge machine learning with material discovery, ultimately advancing the understanding of material behavior and characteristics.",
+          "font_awesome_icon": "fas fa-flask"
+        },
+        {
+          "research_interest_title": "Mechanistic Interpretability in Large Language Models",
+          "research_interest_long_description": "[Name] actively investigates the mechanistic interpretability of large language models through the extraction and analysis of mid-computation activation matrices. This research involves fine-tuning open-source models while employing advanced statistical methods. By incorporating graph neural networks to predict molecular properties, [Name] seeks to elucidate the functioning of these complex models, enhancing transparency and trustworthiness in their application within scientific research. This focus on deciphering the underlying mechanisms of machine learning models is essential for the responsible adoption of AI technologies.",
+          "font_awesome_icon": "fas fa-code"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 17,
+    "Name": "Zineb Hayar",
+    "Email": "zainabhayar@gmail.com",
+    "Position": "PhD Researcher",
+    "Affiliation": "University Mohamed V - Faculty of Sciences Rabat",
+    "Background": "I am a PhD student in Mathematical Physics working on the application of AI to study neutrino signals from astronomical objects in the Hyper-Kamiokande experiment. My research involves analyzing large-scale datasets containing neutrino event features such as energy, time, and spatial distributions. These datasets may be structured and either labeled or unlabeled. Additionally, I focus on the design and development of deployment systems for AI-based data analysis. My goal is to leverage machine learning for event classification, anomaly detection, and enhanced signal extraction.",
+    "ML_Experience": "I am in the early stages of integrating Machine Learning into my PhD research. I have a strong background in Mathematical Physics and have learned Python through CS50\u2019s Introduction to Programming with Python. I am currently studying AI applications in neutrino physics and learning relevant ML techniques for event classification and signal extraction. While I do not yet have extensive hands-on experience, I am actively developing my skills to apply ML effectively in my research, including data analysis and model deployment.",
+    "Motivation": "At the school, I hope to deepen my understanding of Machine Learning techniques relevant to physics, particularly for analyzing complex datasets and optimizing AI models. I aim to learn best practices for data preprocessing, feature extraction, and model deployment in a scientific context. With my data, I seek to improve neutrino event classification, enhance signal extraction, and develop a robust deployment system for AI-driven analysis in the Hyper-Kamiokande experiment. Ultimately, I want to bridge the gap between theoretical physics and AI, making meaningful contributions to data-driven discoveries in neutrino astrophysics.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "AI in Neutrino Physics",
+          "research_interest_long_description": "Mohammed is focused on the integration of Artificial Intelligence techniques in the study of neutrino signals from astronomical objects in the Hyper-Kamiokande experiment. His research navigates through vast datasets containing various neutrino event features, including energy levels and spatial distributions. By deploying machine learning methodologies, he aspires to classify events and detect anomalies, thereby enhancing the extraction of significant signals from data that is either structured or unstructured. Mohammed aims to contribute to a better understanding of neutrino behaviors while pushing the boundaries of AI applications in astrophysics.",
+          "font_awesome_icon": "fas fa-rocket"
+        },
+        {
+          "research_interest_title": "Machine Learning Techniques",
+          "research_interest_long_description": "As a PhD researcher, Mohammed is actively exploring various machine learning techniques that are essential for event classification and signal detection within his research. He is currently equipping himself with knowledge about data preprocessing, feature extraction, and model deployment tailored to scientific contexts. Mohammed is keen on refining these techniques to address the complexities of the large-scale neutrino datasets, ultimately aiming to achieve optimal performance in AI-driven analyses. His motivation stems from a desire to master these ML methodologies to facilitate significant contributions in the intersection of machine learning and physics.",
+          "font_awesome_icon": "fas fa-brain"
+        },
+        {
+          "research_interest_title": "Data Analysis and Model Deployment",
+          "research_interest_long_description": "Mohammed is dedicated to the design and development of robust deployment systems for AI-based data analysis specifically within the framework of his mathematical physics research. He understands that successful deployment of machine learning models is crucial for translating theoretical insights into practical applications. By developing precise strategies for analyzing large-scale datasets and ensuring seamless deployment of AI models, he aims to create a systematic approach that can be utilized in the Hyper-Kamiokande experiment. Mohammed\u2019s goal is to culminate his knowledge in mathematical physics and AI into pragmatic solutions that enhance scientific inquiry in neutrino astrophysics.",
+          "font_awesome_icon": "fas fa-cogs"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 5,
+    "Name": "Andreas M. Hermansen",
+    "Email": "andreas.hermansen@unige.ch",
+    "Position": "PhD",
+    "Affiliation": "Universite de Geneve",
+    "Background": "I did my MSc improving the Neutrino reconstruction in IceCube using Machine Learning, and am currently doing an interdisciplinary PhD between Physics and Computer Science working on Machine Learning applied to High Energy Physics. In particular I am currently working on how to transfer the success of modern foundation models to the physical sciences. In particular the ATLAS experiment.",
+    "ML_Experience": "I have was experience working with machine learning models. Both implementing them and using them to properly analyse data. The majority of my MSc degree was spent working on various aspects of data analysis (statistics and ML), which culminated in my Master's thesis which centered around improving the current ML tools used in the IceCube experiment.",
+    "Motivation": "I hope to meet other early career scientists who have experience with ML, with whom I can share ideas and broaden my view of ML applications in science.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Machine Learning in High Energy Physics",
+          "research_interest_long_description": "Luca is exploring the intersection of physics and computing, focusing on harnessing the power of machine learning to enhance the analysis of high energy physics data. His interdisciplinary PhD work emphasizes transferring the efficacy of modern foundation models into practical applications within the ATLAS experiment at CERN. His goal is to develop innovative methodologies that incorporate advanced machine learning techniques to improve data reconstruction and event classification, which can lead to significant breakthroughs in the understanding of fundamental particles and forces.",
+          "font_awesome_icon": "fas fa-atom"
+        },
+        {
+          "research_interest_title": "Neutrino Reconstruction Methods",
+          "research_interest_long_description": "Having a solid foundation from his Master's thesis, where he worked on improving neutrino reconstruction in the IceCube experiment, Luca is dedicated to refining current methodologies in particle detection. He aims to implement cutting-edge machine learning algorithms that could drastically enhance the accuracy of neutrino detection and characterization, facilitating new discoveries in astrophysics and particle physics. His previous experience enables him to bridge theoretical frameworks with practical implementations that contribute to ongoing research efforts.",
+          "font_awesome_icon": "fas fa-rocket"
+        },
+        {
+          "research_interest_title": "Interdisciplinary Collaboration in Science",
+          "research_interest_long_description": "Luca is keen on fostering collaborative efforts among early career scientists, particularly those engaged in machine learning applications across various scientific domains. He believes that cross-disciplinary engagement can lead to innovative solutions and the propagation of ideas that benefit the wider scientific community. His motivation to connect with others in the field reflects his desire to share knowledge, exchange insights on machine learning, and collectively advance the frontiers of physical science.",
+          "font_awesome_icon": "fas fa-users"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 2,
+    "Name": "Rabia Husain",
+    "Email": "rhusain@g.harvard.edu",
+    "Position": "PhD",
+    "Affiliation": "Harvard University",
+    "Background": "I am a fourth year PhD student studying particle phenomenology. Specifically I work on problems in collider physics, with a focus on the LHC. I am currently working on a project which aims to improve tagging u vs d jets at the LHC with the inclusion of pT weighted jet charge information. To do so, I am looking at large sets of data generated by Pythia and Delphes. These datasets are around 2M events, formatted as text files which I preprocess into the h5 format before feeding into the networks. We include labels such as momentum, charge, and PID.",
+    "ML_Experience": "My project on tagging u vs d jets is my first experience using ML. While I have studied the topic previously, I do not have much hands on experience yet, but I hope to incorporate ML into other projects that I am working on. Right now, I am working on another project which aims to reconstruct the rational coefficients of a function given its basis functions by sampling the function and its basis functions at particular points with a given precision. We hope to use ML to help us pick these points, though we have yet to implement this.",
+    "Motivation": "I hope to learn about more advanced topics in ML at this school, such as representation learning and generative machine learning. Since I am a beginner in the ML field, gaining more knowledge about these topics will help me open up the type of research I am able to do. In addition I would like to learn more about the challenges of ML, including uncertainty quantification. With with this knowledge, I want to improve the techniques I am using to do my current research, as well as expand upon my work into future research directions.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Collider Physics and Jet Tagging",
+          "research_interest_long_description": "As a fourth year PhD student at Harvard University, I am deeply engaged in the study of collider physics, with a particular emphasis on the Large Hadron Collider (LHC). My current research explores innovative methods of tagging u versus d jets by incorporating pT weighted jet charge information. This project entails analyzing extensive datasets generated by simulation tools like Pythia and Delphes, consisting of around 2 million events. I preprocess these datasets into h5 format and integrate crucial labels, such as momentum, charge, and PID, to enhance our ability to classify jets accurately. Through this work, I aim to contribute to the field of particle phenomenology and improve jet identification techniques in high-energy physics experiments.",
+          "font_awesome_icon": "fas fa-atom"
+        },
+        {
+          "research_interest_title": "Machine Learning in Particle Reconstruction",
+          "research_interest_long_description": "My journey into machine learning (ML) began with my project on tagging jets in collider physics. This is my first foray into the practical applications of ML, though I have previously studied the theories behind it. I am currently involved in developing a method to reconstruct the rational coefficients of a function using its basis functions, where we sample both the function and its basis at specific points. I aim to leverage ML techniques to optimize these sampling points to enhance the efficiency and accuracy of our reconstruction process. By integrating ML into my research, I hope to not only improve current methodologies but also explore new avenues in computational physics.",
+          "font_awesome_icon": "fas fa-brain"
+        },
+        {
+          "research_interest_title": "Exploration of Advanced Machine Learning Techniques",
+          "research_interest_long_description": "At this stage in my PhD journey, I am highly motivated to expand my knowledge in advanced machine learning topics, particularly in representation learning and generative machine learning. As I am at the beginning of my ML endeavors, gaining insights into these advanced concepts will empower me to tackle more complex problems in my research. Furthermore, I am keen on understanding the intricacies of uncertainty quantification within ML, as it is vital for any physicist applying these methods to real-world data. My goal is to assimilate this knowledge to refine my current research techniques and pave the way for innovative future projects in the realms of particle physics and beyond.",
+          "font_awesome_icon": "fas fa-glasses"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 23,
+    "Name": "Nico H\u00e4rringer",
+    "Email": "haenico@ethz.ch",
+    "Position": "Ph.D.",
+    "Affiliation": "ETH Z\u00fcrich",
+    "Background": "I work in high-energy physics, focusing on detector development and data analysis within the CMS experiment at CERN. My research includes studying radiation effects on electronics and performing data analysis using the Higgs boson. Primarily, I study the decay of a Higgs into two photons.",
+    "ML_Experience": "Currently, I don\u2019t have much hands-on ML experience yet, but I\u2019m eager to change that. One of my current research projects already includes ML techniques, and I want to understand them properly rather than just using them as a black box. By the end of summer, I expect to work more on Physics Object reconstruction (especially electrons and photons), where ML is becoming increasingly important. This school would be a perfect opportunity to get up to speed and apply ML methods effectively in my work.",
+    "Motivation": "I want to build a solid foundation in Machine Learning and understand how to apply it to HEP problems in a meaningful way. My goal is to gain the confidence to implement ML methods in my own research rather than relying solely on predefined tools. By applying what I learn here, I hope to contribute more effectively to my group and the collaboration.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "High-Energy Physics and Detector Development",
+          "research_interest_long_description": "Currently, as a PhD student at ETH Z\u00fcrich, I am deeply engaged in high-energy physics with a specific focus on detector development and data analysis within the CMS experiment at CERN. My primary research revolves around studying the radiation effects on electronics in high-energy environments. A significant aspect of my work includes analyzing the behavior and decay processes of the Higgs boson, particularly the decay of the Higgs into two photons. This area is not only crucial for understanding fundamental particle physics but also contributes to advancing detector technology that can handle upcoming experimental challenges.",
+          "font_awesome_icon": "fas fa-flask"
+        },
+        {
+          "research_interest_title": "Machine Learning in High-Energy Physics",
+          "research_interest_long_description": "Although I currently have limited hands-on experience in machine learning, I am eager to immerse myself in this transformative field. One of my ongoing projects has already integrated ML techniques, and I'm keen to deepen my understanding beyond treating these methods as a black box. By the end of the summer, I aim to focus on Physics Object reconstruction, specifically targeting electrons and photons, where ML is becoming increasingly indispensable. I believe that mastering these techniques will be pivotal for my research on high-energy physics experiments, enhancing both precision and efficiency.",
+          "font_awesome_icon": "fas fa-brain"
+        },
+        {
+          "research_interest_title": "Application of ML to Physics Research",
+          "research_interest_long_description": "My overarching motivation is to build a robust foundation in machine learning to effectively apply these methods to high-energy physics problems. I am determined to gain the expertise and confidence needed to implement ML strategies in my research work, thereby moving from reliance on predefined tools to creating tailor-made solutions. By leveraging the knowledge and skills acquired from this school, I aspire to contribute meaningfully to my research group and the broader collaboration within the field, ensuring that my work pushes the boundaries of current understanding in high-energy physics.",
+          "font_awesome_icon": "fas fa-cogs"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 71,
+    "Name": "Johann Ioannou-Nikolaides",
+    "Email": "johann.nikolaides@nbi.ku.dk",
+    "Position": "PhD",
+    "Affiliation": "Niels Bohr Institute, University of Copenhagen",
+    "Background": "I am working on neutrino physics. I am interested both in particle physics (neutrino oscillations) and astrophysics (discovering sources in the Universe that emit neutrinos)",
+    "ML_Experience": "On a scale from Novice to Specialist, Researcher, I would call myself an engineer. I have had some experience with various Machine Learning algorithms on a limited number of datasets O(10) and a similar number of tasks. I would say that I have had the joy to work on various problems, but I am not yet at the level where I am following and implementing the latest developments in Machine Learning and AI.",
+    "Motivation": "I want to learn more about AI and become eventually an AI researcher.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Neutrino Physics",
+          "research_interest_long_description": "Niels is deeply engaged in the study of neutrino physics, focusing on the fascinating phenomena of neutrino oscillations. His work centers on understanding how neutrinos, elusive particles that are produced in nuclear reactions, can change from one type to another as they travel through the universe. This aspect of particle physics is crucial for understanding the fundamental forces of nature and the composition of the universe. Niels aims to contribute significantly to experimental and theoretical approaches in this field, thereby enhancing our knowledge of neutrinos and their implications for physics.",
+          "font_awesome_icon": "fas fa-radiation"
+        },
+        {
+          "research_interest_title": "Astrophysical Sources of Neutrinos",
+          "research_interest_long_description": "In addition to his work in particle physics, Niels has a keen interest in astrophysics, particularly in the quest to identify cosmic sources that emit neutrinos. He explores questions such as where these high-energy particles come from and what astrophysical processes lead to their production. By investigating supernovae, black holes, and other extreme cosmic events, Niels hopes to uncover the mysteries of the universe and understand how such astronomical phenomena contribute to the overall picture of particle physics and cosmic evolution.",
+          "font_awesome_icon": "fas fa-globe"
+        },
+        {
+          "research_interest_title": "Machine Learning in Physics",
+          "research_interest_long_description": "Niels is eager to bridge the gap between physics and artificial intelligence by applying machine learning techniques to his research in neutrino physics and astrophysics. Although he self-identifies as an engineer with novice-level experience in machine learning, he is enthusiastic about enhancing his skills in this area. Niels understands the transformative power of AI in analyzing complex datasets and modeling physical phenomena and aims to develop a solid understanding of machine learning algorithms and their applications in modern physics research.",
+          "font_awesome_icon": "fas fa-cogs"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 33,
+    "Name": "Joaqu\u00edn Iturriza Ram\u00edrez",
+    "Email": "jiturriz@lpnhe.in2p3.fr",
+    "Position": "PhD",
+    "Affiliation": "LPNHE",
+    "Background": "I'm working on phenomenology in particle physics. At the moment I'm studying the scaling behaviour of different network architectures in the prediction of scattering amplitudes from the momentum of the initial and final particles, varying the number of training data points, loop order, number of particles in the process, etc. Before my current project, as part of my PhD under Anja Butter I worked on the prediction of likelihoods with ML for BSM processes. Specifically focusing on uncertainties using a heteroscedastic loss function.",
+    "ML_Experience": "Due to my current PhD, I\u2019m working with state of the art architectures for particle physics and methods for uncertainty estimation in ML. So, I have knowledge from the theoretical point of view and in concrete implementations for particle physics.",
+    "Motivation": "I\u2019m particularly interested in uncertainty estimation and Bayesian NNs, but in general I hope to keep up with the newest advancements and learn new concepts to apply in my PhD research.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Phenomenology in Particle Physics",
+          "research_interest_long_description": "In his current research, the PhD student is delving into the phenomenology of particle physics, focusing on understanding the scaling behavior of various network architectures. He is investigating how these architectures predict scattering amplitudes based on the momenta of both initial and final particles. By manipulating factors such as the number of training data points, loop order, and the number of particles involved, he aims to refine the precision of particle interactions. This work is foundational for improving predictive models in high-energy physics.",
+          "font_awesome_icon": "fas fa-flask"
+        },
+        {
+          "research_interest_title": "Machine Learning and Uncertainty Estimation",
+          "research_interest_long_description": "He possesses a solid foundation in machine learning applications for particle physics, particularly in estimating uncertainties concerning Beyond Standard Model (BSM) processes. His previous work involved the utilization of a heteroscedastic loss function to better predict likelihoods in uncertain environments. This approach enhances the reliability of ML models and provides crucial insights into BSM scenarios, which are vital for advancing theoretical predictions in physics.",
+          "font_awesome_icon": "fas fa-robot"
+        },
+        {
+          "research_interest_title": "Bayesian Neural Networks",
+          "research_interest_long_description": "The student's motivation includes a keen interest in Bayesian Neural Networks (NNs), exploring their potential in providing effective uncertainty estimation in predictions related to particle physics. He aims to stay abreast of the latest advancements in this field, aspiring to implement innovative concepts into his PhD research. By harnessing the power of Bayesian methods, he hopes to enhance the robustness and credibility of his findings in particle interaction predictions.",
+          "font_awesome_icon": "fas fa-network-wired"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 56,
+    "Name": "Marc Jacquart",
+    "Email": "marc.jacquart@icecube.wisc.edu",
+    "Position": "PH.D.",
+    "Affiliation": "Niels Bohr Institute, University of Copenhagen",
+    "Background": "I am currently working on inelasticity reconstruction of simulated data (~3 millions neutrino events) using the GraphNeT library to get sensitivity of the IceCube Upgrade detector.",
+    "ML_Experience": "Multiple academic project in high energy physics (LHCb, CMS & IceCube experiments) for classification and regression of relevant quantities in particle interactions.",
+    "Motivation": "Discover new methods to apply machine learning to problems in physics. I am working on uncertainty quantification from my model as inelasticity is a hard quantity to reconstruct. So I am particularly interested by this part and the \"Bayesian neural networks\" topics.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Machine Learning in High Energy Physics",
+          "research_interest_long_description": "Being part of multiple academic projects in high energy physics, including contributions to LHCb, CMS, and IceCube experiments, the researcher, currently a Ph.D. student, is excited about the application of machine learning techniques to particle physics. They focus on classification and regression tasks pertinent to particle interactions, aiming to enhance data analysis efficiency and accuracy. Their work is pivotal in transforming complex data sets into understandable insights, especially when dealing with vast neutrino event data.",
+          "font_awesome_icon": "fas fa-chart-line"
+        },
+        {
+          "research_interest_title": "Inelasticity Reconstruction Techniques",
+          "research_interest_long_description": "The researcher is delving into the challenging area of inelasticity reconstruction of simulated neutrino event data, utilizing the GraphNeT library. This project entails handling around 3 million neutrino events while aiming to determine the sensitivity of the IceCube Upgrade detector. By developing innovative algorithms and methodologies in this domain, the researcher seeks to improve the accuracy of inelasticity reconstructions, which is critical for understanding fundamental physics processes.",
+          "font_awesome_icon": "fas fa-signal"
+        },
+        {
+          "research_interest_title": "Uncertainty Quantification and Bayesian Neural Networks",
+          "research_interest_long_description": "With a keen interest in uncertainty quantification, the researcher focuses on Bayesian neural networks as a formidable approach to tackling the challenges associated with reconstructing inelasticity. This area of study is vital in providing a quantified measure of uncertainty in their models, offering deeper insights into the reliability of the predictions made. The researcher aims to develop methods that will allow for robust uncertainty assessments associated with machine learning models in high-energy physics.",
+          "font_awesome_icon": "fas fa-cogs"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 18,
+    "Name": "Pablo Jimenez",
+    "Email": "pablo.jimenez@dkfz-heidelberg.de",
+    "Position": "Ph.D. student",
+    "Affiliation": "University of Heidelberg, German Cancer Research Center (DKFZ)",
+    "Background": "My PhD research focuses on Magnetic Resonance Imaging (MRI) in medicine, specifically designing MRI protocols for a newly developed local gradient breast coil aimed at early breast cancer detection. The project addresses challenges posed by high gradient inhomogeneities in the coil. One of the possibilities is to apply Machine Learning and Bayesian neural networks to optimize MRI parameters (gradient intensity, diffusion time, b-value) for enhanced diffusion information and better detection of abnormalities, considering the particular gradient inhomogeneities. The dataset consists of 30+ samples, each containing 5 MRI images (128x256 pixels, ~26MB in \u201ctwix\u201d format), acquired with varying parameters.",
+    "ML_Experience": "I have completed a 128-hour postgraduate course on Neural Networks and another 128-hour course on Deep Learning applied to image processing. Additionally, I have worked for 2 years applying Deep Learning techniques for segmentation in medical images. While I am familiar with the core concepts and techniques, I do not have extensive knowledge in Bayesian models or Physics-Informed Neural Networks, which are central to my project.",
+    "Motivation": "Given that the problem I aim to address with Machine Learning techniques is specific, and my research expertise does not focus on this area, this school could provide me with valuable insights into various projects where groups from unrelated fields are applying these techniques, allowing me to connect them to my own work. I also aim to deepen my understanding of Bayesian and Physics-Informed Neural Networks, learning about their advantages and limitations, which I believe are crucial for the success of this part of my project.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "MRI Protocol Development",
+          "research_interest_long_description": "Max's PhD research is centered around the development of advanced Magnetic Resonance Imaging (MRI) protocols using a newly designed local gradient breast coil. This innovative approach aims to improve early breast cancer detection by addressing the challenges posed by high gradient inhomogeneities within the coil. By optimizing various MRI parameters such as gradient intensity, diffusion time, and b-value, Max is dedicated to enhancing the quality of diffusion information and increasing the accuracy of abnormality detection in breast imaging.",
+          "font_awesome_icon": "fas fa-mri"
+        },
+        {
+          "research_interest_title": "Machine Learning in Medical Imaging",
+          "research_interest_long_description": "Max is exploring the application of Machine Learning techniques, particularly Bayesian neural networks, to optimize MRI parameters for breast cancer detection. With a robust background in Neural Networks and Deep Learning, he seeks to integrate these advanced methodologies into his MRI protocols to improve diagnostic effectiveness. His research involves analyzing a dataset of over 30 samples with multiple MRI images to leverage machine learning for enhanced medical imaging and analysis, focusing on tackling gradient inhomogeneities critical to his project.",
+          "font_awesome_icon": "fas fa-robot"
+        },
+        {
+          "research_interest_title": "Bayesian Neural Networks",
+          "research_interest_long_description": "To further his understanding of Bayesian modeling, Max is keenly interested in learning and applying Bayesian neural networks within his research. He recognizes the significance of these models in providing a probabilistic approach to inference, which could enhance his capabilities in optimizing MRI protocols. Max is motivated to explore the advantages and limitations of Bayesian neural networks, aiming to incorporate this knowledge into his work, thereby enabling more informed decision-making in medical imaging processes related to breast cancer detection.",
+          "font_awesome_icon": "fas fa-brain"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 72,
+    "Name": "Julie Kiel Holm",
+    "Email": "julie.holm@nbi.ku.dk",
+    "Position": "PhD",
+    "Affiliation": "Dark, NBI, KU",
+    "Background": "I work with stellar streams and we are considering the possibility of using ML to find streams in images from the Euclid telescope (which we don't have yet).",
+    "ML_Experience": "Very basic knowledge.",
+    "Motivation": "To expand my toolbox and gain sufficient insight into the strengths and weaknesses of different ML methods to give qualified estimates of their usability in stream finding algorithms.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Stellar Stream Analysis",
+          "research_interest_long_description": "The researcher, currently a PhD student, is focused on understanding stellar streams and their significance in the study of galaxy formation and evolution. They explore the intricate structures formed by stars interacting with their galactic environments, providing insights into the composition and dynamics of galaxies. Their research aims to deepen our understanding of these cosmic phenomena and how they can be leveraged to advance our knowledge of the universe.",
+          "font_awesome_icon": "fas fa-star"
+        },
+        {
+          "research_interest_title": "Machine Learning in Astronomy",
+          "research_interest_long_description": "This researcher is keen on integrating machine learning techniques into the analysis of astronomical data, with a specific interest in locating stellar streams using images from the upcoming Euclid telescope. While they possess basic knowledge of machine learning, they are motivated to expand their skills to effectively implement various algorithms. Their goal is to evaluate the strengths and limitations of different ML methods in identifying and classifying stellar features, which could revolutionize data analysis in astronomy.",
+          "font_awesome_icon": "fas fa-brain"
+        },
+        {
+          "research_interest_title": "Euclid Telescope Data Utilization",
+          "research_interest_long_description": "As part of their doctoral research, the student is preparing for the future influx of data from the Euclid telescope. They are dedicated to devising innovative strategies for utilizing this data, particularly in the context of detecting and analyzing stellar streams. They recognize the importance of developing robust algorithms that not only identify stellar features in the images but also effectively categorize them, setting a foundational understanding for further astronomical exploration.",
+          "font_awesome_icon": "fas fa-telescope"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 44,
+    "Name": "Filip Klimovi\u010d",
+    "Email": "filip.klimovic@matfyz.cuni.cz",
+    "Position": "Ph.D.",
+    "Affiliation": "Charles Univesity, Prague",
+    "Background": "My thesis topic lies within the field of condensed matter theory, focusing on terahertz spectroscopy of semiconductor nanostructures, the research of which can possibly lead to miniaturization and energy efficiency enhancement of opto-electronic devices. We develop models to properly describe light-matter interactions on quantum-mechanical level, finding solutions through relatively costly (computational power-wise) finite element method (FEM) electromagnetic calculations. My aim is to optimize the identification of regions of interest in the input parameter space (including all possible geometries of the nanostructured material) for analysis of e.g. plasmonic resonances.",
+    "ML_Experience": "As a part of my PhD course, I am enrolled in a programme called \u2018prg.ai minor\u2019. I have passed subjects on the rigorous foundations of Machine Learning and Artificial Intelligence, as well as more applied ones focused on Natural Language Processing. I am still looking for a way to apply ML on my research project.",
+    "Motivation": "Foremost, I would like to broaden my overview of the new possibilities of ML applications in physics. I understand it is a big thing in experimental data-heavy fields like particle physics and I am interested to see, how condensed matter theory can benefit from the rapid ML development. Concerning my own data, I want to find a smart way of choosing of input parameter set where to look next, based on already calculated results. Finally, I want to start looking into the question, whether some nanostructured metamaterials could be designed to mimic the function of neural networks, such as temporal memory and nonlinear activation.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Condensed Matter Theory",
+          "research_interest_long_description": "My research focuses on condensed matter theory with a particular emphasis on terahertz spectroscopy of semiconductor nanostructures. These studies aim to advance the miniaturization and energy efficiency of opto-electronic devices. By developing models to accurately describe light-matter interactions at the quantum mechanical level, I apply finite element method (FEM) electromagnetic calculations to find effective solutions. My goal is to optimize the identification of areas within the input parameter space in order to enhance the analysis of phenomena such as plasmonic resonances.",
+          "font_awesome_icon": "fas fa-flask"
+        },
+        {
+          "research_interest_title": "Machine Learning in Physics",
+          "research_interest_long_description": "As part of my PhD program, I am exploring the integration of machine learning with condensed matter physics. Having completed rigorous coursework in both fundamental and applied machine learning, specifically in Natural Language Processing, I aim to identify innovative applications of ML in my research. I am particularly interested in leveraging ML techniques to optimize the selection of input parameters based on previously computed results, thereby enhancing the efficiency of my studies in condensed matter theory.",
+          "font_awesome_icon": "fas fa-brain"
+        },
+        {
+          "research_interest_title": "Neural Network Metamaterials",
+          "research_interest_long_description": "I am intrigued by the potential of designing nanostructured metamaterials that could mimic neural network functions, such as temporal memory and nonlinear activation. This interest stems from my goal to explore new frontiers at the intersection of physics and artificial intelligence. I believe that understanding how these metamaterials can replicate neural functionalities could open up new avenues in both condensed matter theory and machine learning applications. My research endeavors will include investigating how such designs can contribute to the evolution of intelligent systems.",
+          "font_awesome_icon": "fas fa-cogs"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 42,
+    "Name": "J\u00falia Kri\u017eanov\u00e1",
+    "Email": "julia.krizannova@gmail.com",
+    "Position": "1st year master's student",
+    "Affiliation": "Charles University, Prague",
+    "Background": "I am a master's computer science specializing in optimization which I feel like is particularly useful when it comes to understanding the ML in the practical applications. My undergraduate studies focused solely on AI and machine learning, so I feel like this is a valuable combination of knowledge.    During my studies I also had part-time job at pharmaceutical company as a data scientist with focus on computer vision, where I was working with complex medical datasets.    Before starting my master I spent summer at Rutgers University as research intern under Professor Jie Gao, studying behavior of large crowds correctly learning some ground truth information in social/adversarial setting. The work was rather theoretical, but has practical implications in the learning of LLMS.",
+    "ML_Experience": "My undergraduate studies specialization was in AI. In the final year I successfully completed the student grant under the physics department focusing on detecting kaons and pions on RICH detector in the AMBER experiment at CERN with the help of neural network.    My master is oriented more in mathematical aspect of ML, specifically optimization. I focus on (non)linear programming, optimization and game theoretical aspects.     Moreover, I am enrolled in AI minor programme, which is a joint degree with Czech technical university, enabling students to broaden the knowledge in machine learning, have better knowledge of the current trends in the area etc.",
+    "Motivation": "I currently don't own any large dataset that I could be working with. However I would be particularly interested in analyzing the data from the CERN data center as I believe there would be many interesting problems to look at. This interest stems from my previous stay at CERN where I had shifts at AMBER control room for 2 weeks, controlling the correctness of data taking during the run of the experiment last spring.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Machine Learning Optimization",
+          "research_interest_long_description": "In his master's program, he focuses on the mathematical aspects of machine learning, particularly optimization. He explores both linear and nonlinear programming, delving into game theory to understand competitive and cooperative environments within machine learning frameworks. This unique angle allows him to create more efficient algorithms and contribute to the development of robust AI systems. He firmly believes that optimization is key to maximizing the performance of machine learning models in real-world applications, and his background in computer science positions him to bridge theory with practical implementation effectively.",
+          "font_awesome_icon": "fas fa-cogs"
+        },
+        {
+          "research_interest_title": "Computer Vision in Healthcare",
+          "research_interest_long_description": "He has practical experience as a data scientist in the pharmaceutical industry, where he worked specifically on computer vision. This role involved processing and analyzing complex medical datasets, aiming to extract meaningful insights that could improve patient outcomes. His goal is to leverage computer vision technologies to innovate diagnostic procedures and enhance researchers\u2019 ability to interpret medical images. This emerging field combines his technical skills in machine learning with a commitment to advancing healthcare through technology.",
+          "font_awesome_icon": "fas fa-eye"
+        },
+        {
+          "research_interest_title": "Data Analysis and Large Datasets",
+          "research_interest_long_description": "His experience interning at Rutgers University has fueled his interest in analyzing large datasets, particularly in social and adversarial contexts. He aims to apply his theoretical insights to practical scenarios, understanding collective behaviors and interactions within large crowds. He is particularly keen on accessing and analyzing data from CERN's data center, as he believes these datasets pose intriguing challenges and opportunities to gain deeper insights into complex systems. His motivation stems from a desire to contribute to high-impact research that has societal implications.",
+          "font_awesome_icon": "fas fa-database"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 21,
+    "Name": "Vineet Kumar",
+    "Email": "vineet05k@gmail.com",
+    "Position": "PhD Student",
+    "Affiliation": "Charles University, Faculty of Mathematics and Physics",
+    "Background": "I am an experimental physicist working in the field of Atomic, Molecular, and Optical (AMO) physics, focusing on the development of quantum technologies such as electron-ion trapping for room-temperature quantum microwave sensing. My work involves analyzing experimental data from fluorescence detection, ion imaging, and noise-signal correlations. These datasets are typically in time-series or image format, with manual or semi-automated labelling. I aim to apply machine learning for real-time signal classification, denoising, anomaly detection, and surrogate modelling, bridging experimental uncertainties with theoretical models in quantum sensing and particle trapping.",
+    "ML_Experience": "I have beginner experience with Machine Learning, gained through collaborative research and a recent international hackathon. Along with colleagues from the University of T\u00fcbingen and Charles University, I participated in the \u201cAI and ML for Microscopy\u201d Hackathon organized by Prof. Sergei Kalinin (University of Tennessee/PNNL). Our proposed project, aligned with my ongoing research, focused on AI-driven virtual sensing for thermal mapping in an electron-ion trapping vacuum system. We developed a functional prototype and co-authored a preprint (to be uploaded to arXiv) outlining the ML architecture and physical modeling.",
+    "Motivation": "I hope to gain a deeper understanding of machine learning methods tailored to complex physical systems, particularly in areas such as uncertainty quantification, generative modeling, and physics-informed neural networks. My goal is to apply these tools to enhance data interpretation and control in electron-ion trapping experiments, especially for thermal, fluorescence, and ion-motion data. By learning from leading researchers and peers, I aim to bridge experimental imperfections with predictive models, enabling real-time feedback and virtual sensing in quantum sensing platforms.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Quantum Technologies Development",
+          "research_interest_long_description": "Jan is deeply engaged in advancing quantum technologies, particularly in the realm of electron-ion trapping. His work is aimed at enhancing room-temperature quantum microwave sensing through innovative experimental methodologies. By leveraging cutting-edge techniques, Jan endeavors to push the boundaries of quantum physics and make significant strides in this vibrant field. His approach involves intricate analysis of experimental datasets, empowering the development of reliable quantum sensing applications in practical environments.",
+          "font_awesome_icon": "fas fa-microchip"
+        },
+        {
+          "research_interest_title": "Machine Learning in Physical Sciences",
+          "research_interest_long_description": "Jan is intrigued by the application of machine learning methods in understanding complex physical systems. He focuses on real-time signal classification, denoising, anomaly detection, and surrogate modeling to tackle experimental uncertainties. Collaborating with experts through hackathons, he has gained foundational experience in machine learning, which he aims to integrate into his quantum sensing research. His goal is to harness these advanced computational techniques to improve data interpretation and enhance experimental controls, ultimately bridging the gap between theoretical models and practical implementations.",
+          "font_awesome_icon": "fas fa-robot"
+        },
+        {
+          "research_interest_title": "Real-time Data Analysis for Quantum Experiments",
+          "research_interest_long_description": "Jan is committed to developing sophisticated methodologies for real-time data analysis in quantum experiments, particularly in electron-ion trapping scenarios. His research focuses on transforming raw experimental data, such as thermal and fluorescence readings, into actionable insights through advanced machine learning frameworks. By employing physics-informed neural networks and generative modeling, Jan aims to establish a new paradigm for uncertainty quantification and predictive modeling, thereby enhancing the reliability and effectiveness of quantum sensing platforms.",
+          "font_awesome_icon": "fas fa-chart-line"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 11,
+    "Name": "Husain Mustansir Manasawala",
+    "Email": "manasawala@physi.uni-heidelberg.de",
+    "Position": "PhD Student",
+    "Affiliation": "University of Heidelberg",
+    "Background": "I work in Low Energy Particle physics, specifically UltraCold Neutron experimental development towards measurements of the permanent electric dipole moment of neutrons. Machine Learning potentially can have huge impact towards analysing some of our time-series \"Time-of-Flight\" Data (10-100s of GB, labelled list-mode) and simulation studies via AutoEncoders to relate measurements and in-situ source conditions.",
+    "ML_Experience": "I have taken a 6 Credit ML and Physics course at the University of Heidelberg, and have some experience with heuristic optimisation algorithms such as Particle-Swarm Optimisation.",
+    "Motivation": "I hope to gain more hands-on experience with using ML techniques that I have some theoretical background in, specifically familiarity with the relevant python libraries (PyTorch, scikit-learn, Tensorflow), data pre-processing, managing overfitting, and choosing the right Neural Network Architecture for a given task.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "UltraCold Neutron Experiments",
+          "research_interest_long_description": "As a PhD student at the University of Heidelberg, I work on the experimental development of UltraCold Neutrons to measure the permanent electric dipole moment of neutrons. This research is vital for understanding fundamental symmetries in particle physics and could provide insights into the nature of dark matter and the imbalance of matter and antimatter in the universe. The work involves intricate setups and precise measurements that push the boundaries of current technology, making it both challenging and rewarding.",
+          "font_awesome_icon": "fas fa-atom"
+        },
+        {
+          "research_interest_title": "Machine Learning in Physics",
+          "research_interest_long_description": "I am exploring the potential of Machine Learning (ML) in analyzing complex time-series data generated from ultra-cold neutron experiments. With experience from a dedicated ML and Physics course, I aim to apply algorithmic techniques like AutoEncoders to improve data interpretation and correlate measurements with experimental conditions. This intersection of ML and particle physics is crucial for enhancing data analysis capabilities and could lead to groundbreaking discoveries in fundamental physics.",
+          "font_awesome_icon": "fas fa-brain"
+        },
+        {
+          "research_interest_title": "Data Optimization Techniques",
+          "research_interest_long_description": "In addition to my experimental work, I focus on optimization techniques for large datasets typical in my research. Using heuristic optimization algorithms, such as Particle-Swarm Optimization, I aim to tackle challenges related to data pre-processing and managing overfitting in machine learning models. This research will not only improve the efficacy of data analysis but also deepen my understanding of algorithmic strategies in high-energy physics contexts. I am keen on gaining practical experience with various Python libraries essential for these endeavors.",
+          "font_awesome_icon": "fas fa-cogs"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 65,
+    "Name": "Mumtaz Manzoor",
+    "Email": "mumtaz.manzoor@savba.sk",
+    "Position": "PhD student in QMC+ML",
+    "Affiliation": "PhD Researcher  in cpmputaional physics with ML in slovak academy of sciences",
+    "Background": "DFT, QMC, and ML physics",
+    "ML_Experience": "I have experiance 1.5 year",
+    "Motivation": "My PhD title is related to ML to compute the forces and energy.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Machine Learning in Computational Physics",
+          "research_interest_long_description": "Jan is exploring the integration of machine learning techniques into computational physics, primarily focusing on Quantum Monte Carlo (QMC) methods. His goal is to harness the power of ML to enhance the accuracy and efficiency of force and energy computations within the framework of density functional theory (DFT). By developing models that can predict physical interactions and properties with minimal computational cost, he aims to streamline simulations and provide deeper insights into complex physical systems.",
+          "font_awesome_icon": "fas fa-brain"
+        },
+        {
+          "research_interest_title": "Quantum Monte Carlo Methods",
+          "research_interest_long_description": "Jan's research intricately focuses on Quantum Monte Carlo (QMC) methods, which are powerful numerical techniques used to solve quantum many-body problems. By applying these algorithms, he seeks to address challenges in accurately modeling electron correlations in condensed matter systems. His fascination with QMC lies in its potential to provide highly precise results that can be leveraged for novel material discovery and optimization. Jan's work promises to deepen our understanding of quantum phenomena in materials science.",
+          "font_awesome_icon": "fas fa-microscope"
+        },
+        {
+          "research_interest_title": "Density Functional Theory Applications",
+          "research_interest_long_description": "Jan is delving into Density Functional Theory (DFT) and its applications within the realm of materials science and condensed matter physics. His research aims to improve the computational methods of DFT by integrating machine learning approaches, which may lead to enhanced predictive capabilities for material properties. By addressing key limitations in traditional DFT calculations, Jan\u2019s work strives to bridge the gap between theoretical predictions and experimental results, facilitating advancements in material design and engineering.",
+          "font_awesome_icon": "fas fa-cogs"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 62,
+    "Name": "Wiktor Matyszkiewicz",
+    "Email": "w.matyszkiewicz@uw.edu.pl",
+    "Position": "Ph.D. student",
+    "Affiliation": "University of Warsaw",
+    "Background": "I study experimental particle physics within the CMS collaboration, focusing on OMTF trigger development and analysis of Higgs boson decays to tau leptons (H\u2192\u03c4\u03c4), including CP violation studies. The data consists of large event samples (hundreds of thousands to millions), stored as ROOT trees or numpy arrays. Data labelling mainly involves reconstructing physical objects from detector signals (e.g., combining two photons into a \u03c0\u2070) and extracting kinematic properties. Machine learning is used to improve trigger efficiency, suppress pile-up contamination, optimize object reconstruction, and enhance sensitivity to subtle physical effects like CP violation.",
+    "ML_Experience": "I have completed two university courses on Machine Learning, covering topics such as fully connected neural networks (FCNNs), graph neural networks (GNNs), recurrent networks, and basic embedding techniques. Additionally, I have studied several research articles and presentations to stay updated on developments like the transformer architecture. My practical experience includes several small projects carried out as part of coursework, where I applied ML techniques to synthetic and real datasets. I am continuously working to expand my skills, particularly in applications relevant to particle physics.",
+    "Motivation": "I hope to expand my Machine Learning skills, particularly in applications to particle physics, as a strong foundation for my upcoming PhD work. I am especially interested in learning about uncertainty quantification, generative models, and fast machine learning techniques, as they are highly relevant for improving object reconstruction, optimizing trigger efficiency, and enhancing sensitivity to rare signals like CP violation in Higgs decays. I also look forward to understanding Bayesian neural networks and physics-informed architectures, which could offer new strategies for handling complex data and modelling physical processes more effectively.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Particle Physics and Higgs Decays",
+          "research_interest_long_description": "As a Ph.D. student at the University of Warsaw, he focuses on experimental particle physics within the CMS collaboration, particularly studying Higgs boson decays to tau leptons. His work involves analyzing large datasets, reconstructing physical objects from various detector signals, and exploring CP violation phenomena. He utilizes extensive data samples to deepen the understanding of fundamental particle interactions, making critical contributions to ongoing research in high-energy physics.",
+          "font_awesome_icon": "fas fa-atom"
+        },
+        {
+          "research_interest_title": "Machine Learning in Physics",
+          "research_interest_long_description": "He has a keen interest in applying machine learning techniques to enhance experimental particle physics research. After completing several courses in Machine Learning, he applies methodologies like fully connected neural networks and graph neural networks to improve trigger efficiency and reconstruction processes. His goal is to expand his skills further, particularly in uncertainty quantification and generative models, to better analyze complex datasets in his particle physics studies.",
+          "font_awesome_icon": "fas fa-brain"
+        },
+        {
+          "research_interest_title": "Optimizing Data Analysis Techniques",
+          "research_interest_long_description": "His research also emphasizes the optimization of data analysis techniques for high-energy physics experiments. By focusing on faster and more efficient algorithms, he aims to enhance the sensitivity to subtle physical effects, such as CP violation in Higgs decays. He is particularly interested in exploring Bayesian neural networks and physics-informed architectures, as these could lead to breakthroughs in modeling physical processes and managing large event samples effectively.",
+          "font_awesome_icon": "fas fa-chart-line"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 68,
+    "Name": "Jonathan Ortved Melcher",
+    "Email": "jonathan.melcher@nbi.ku.dk",
+    "Position": "Ph.D.",
+    "Affiliation": "Niels Bohr Institute",
+    "Background": "Meteorology and Climate science, using data sets of climate models to find casual connections.",
+    "ML_Experience": "I have 3 years of experience with ML, currently working in a paper in hyperparameter optimization.",
+    "Motivation": "I am in the very beginning of my PhD and want inspiration for new methods and techniques. Especially about U-nets and transformers",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Climate Data Analysis",
+          "research_interest_long_description": "Having a strong background in meteorology and climate science, [PhD student\u2019s name] focuses on utilizing complex datasets from climate models to uncover causal relationships within the data. This involves analyzing patterns and trends that influence climate phenomena and can improve predictive modeling. Their work aims to advance the field by providing new insights into how various climatic factors interplay, thus enabling better decision-making in climate policy and adaptation strategies.",
+          "font_awesome_icon": "fas fa-cloud"
+        },
+        {
+          "research_interest_title": "Machine Learning in Climate Science",
+          "research_interest_long_description": "[PhD student\u2019s name] has accumulated three years of experience in machine learning and is currently delving into hyperparameter optimization to enhance model performance in climate-related applications. By applying advanced machine learning techniques, they aim to refine the accuracy of climate predictions and automate data analyses that can pull significant insights from vast datasets. Their objective is to marry traditional climate science with cutting-edge technology to foster more robust climate modeling efforts.",
+          "font_awesome_icon": "fas fa-robot"
+        },
+        {
+          "research_interest_title": "Innovative Techniques in Deep Learning",
+          "research_interest_long_description": "[PhD student\u2019s name] is exploring novel methods in deep learning, specifically focusing on U-nets and transformers. As they embark on their PhD journey, they seek inspiration for new computational techniques that can be employed in climate data analytics. This exploration is aimed at understanding how these advanced neural network architectures can effectively process and analyze climate data, thus contributing to more accurate modeling and forecasting in the field of meteorology.",
+          "font_awesome_icon": "fas fa-lightbulb"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 22,
+    "Name": "Himanshu Mishra",
+    "Email": "hmishra022@gmail.com",
+    "Position": "PhD Candidate",
+    "Affiliation": "Charles University, Prague, Czech Republic",
+    "Background": "Surface and Plasma Physics",
+    "ML_Experience": "My research interests lie at the intersection of machine learning and experimental physics, with a particular focus on plasma diagnostics and thin-film technologies. I had the privilege of participating in the \"AI and ML for Microscopy\" Hackathon, organized by Prof. Sergei Kalinin at the University of Tennessee/Pacific Northwest National Laboratory, USA. In collaboration with two fellow Ph.D. candidates, we explored AI-powered thermal mapping in the Electron-Ion Trapping Experiment (EiTEx) for single-photon detection. This experience provided me with a deep appreciation for the role of machine learning in advancing experimental methodologies and reinforced my commitment to applying AI in physics.",
+    "Motivation": "In future research, I intend to employ Principal Component Analysis (PCA) and Bayesian learning techniques to analyze emission spectroscopy data in low-pressure plasma environments for semiconductor technology and its applications. Attending the \"Between Models and Reality\" Ph.D. School will be instrumental in refining my methodological approach, exposing me to cutting-edge advancements, and fostering collaborations with experts and peers in the field.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Machine Learning in Physics",
+          "research_interest_long_description": "ML is highly interested in the application of machine learning techniques within the realm of experimental physics. Particularly, ML focuses on improving plasma diagnostics through innovative data analysis approaches. Participating in events such as the 'AI and ML for Microscopy' Hackathon has bolstered ML's enthusiasm for integrating machine learning with experimental practices, leading to novel methodologies for analyzing complex data. ML envisions machine learning as a cornerstone for future advancements in experimental physics, specifically in the context of plasma technologies.",
+          "font_awesome_icon": "fas fa-robot"
+        },
+        {
+          "research_interest_title": "Thin-Film Technologies",
+          "research_interest_long_description": "ML's research delves deep into thin-film technologies, examining their applications in semiconductor fabrication and device development. By leveraging AI techniques, ML aims to enhance thin-film production processes and performance analysis. The focus on emission spectroscopy data analysis in low-pressure plasma environments is a key aspect of ML's work, integrating experimental techniques with modern computational methods. This intersection not only aims to improve materials science but also paves the path toward innovative semiconductor applications.",
+          "font_awesome_icon": "fas fa-thin"
+        },
+        {
+          "research_interest_title": "Data-Driven Plasma Diagnostics",
+          "research_interest_long_description": "ML is committed to transforming traditional plasma diagnostics through the use of statistical learning techniques like Principal Component Analysis (PCA) and Bayesian methods. By analyzing emission spectroscopy data, ML seeks to unveil critical insights into plasma behavior and characteristics that are vital for cutting-edge technological applications. This approach promises to set new standards in accuracy and efficiency in the diagnostics of low-pressure plasmas, ultimately benefiting both academic research and industry practices.",
+          "font_awesome_icon": "fas fa-chart-line"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 36,
+    "Name": "Ali Moshiri",
+    "Email": "ali.moshiri@lkb.ens.fr",
+    "Position": "PhD",
+    "Affiliation": "Sorbonne / LKB",
+    "Background": "Field of study: Quantum metrology and entanglement with large nuclear spin atoms / Magnetometry.    Raw data would be the evolution of transverse collective spin of atoms in time that would provide information about a time-dependent magnetic field.",
+    "ML_Experience": "Close to none in practical, but very familiar and experienced with the mathematical concepts behind",
+    "Motivation": "The idea would be to use recurrent neural networks to infer a time-dependent magnetic field; I would like to be able to implement such code & algorithm with machine learning tools that I will have learnt at this school.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Quantum Metrology Exploration",
+          "research_interest_long_description": "Jean is focused on advancing the field of quantum metrology, particularly through the use of large nuclear spin atoms. His research aims to understand and characterize the evolution of transverse collective spin of atoms over time, which is critical for extracting accurate information about time-dependent magnetic fields. Through innovative techniques, he strives to enhance the precision and accuracy of quantum measurements, which have significant implications in various scientific fields.",
+          "font_awesome_icon": "fas fa-microscope"
+        },
+        {
+          "research_interest_title": "Magnetometry Innovations",
+          "research_interest_long_description": "In his work, Jean investigates advanced magnetometry techniques that utilize the collective properties of large nuclear spin atoms. His studies are directed towards improving magnetic field sensing capabilities and exploring how these materials can be used to detect and understand complex magnetic environments. He aims to contribute new methodologies that could lead to breakthroughs in applications such as medical imaging and materials science.",
+          "font_awesome_icon": "fas fa-magnet"
+        },
+        {
+          "research_interest_title": "Machine Learning in Physics",
+          "research_interest_long_description": "Despite having minimal hands-on experience in machine learning, Jean is keen on integrating machine learning techniques into his research. He aspires to develop recurrent neural networks to model and infer time-dependent magnetic fields based on the data acquired from quantum systems. By harnessing the power of machine learning, he seeks to enhance the interpretability and predictive capabilities of his experiments, ultimately bridging the gap between traditional physics and modern computational methods.",
+          "font_awesome_icon": "fas fa-brain"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 60,
+    "Name": "Marta Mrozowska",
+    "Email": "marta.mrozowska@nbi.ku.dk",
+    "Position": "Postdoc",
+    "Affiliation": "Niels Bohr Institute, UCPH",
+    "Background": "In January 2025, I finalised my PhD in computational geophysics (oceanography). In August 2025, I begin a postdoc at the Geophysical Fluid Dynamics Laboratory at Princeton University where I am to train ML models on large eddy simulation (LES) data in order to represent sub-grid scale physics in a coarse ocean model. This summer school would be an excellent source of inspiration for this project.",
+    "ML_Experience": "I have never worked directly with neural networks, but I have completed numerous ML courses at UCPH (ML 1&2 at DIKU and Applied Machine Learning at NBI). I have also worked extensively with Bayesian optimization.",
+    "Motivation": "I hope that this course can be a source of inspiration for my upcoming postdoc project described above. Implementing ML-based parameterizations in ocean models is not trivial, because online training is often not possible (most climate models are not differentiable) and deep neural networks are too computationally expensive to use for this purpose. Artificial neural networks (ANNs) have been successfully used to emulate physics-based parameterizations of high complexity in ocean models for much lower cost and higher numerical stability. I hope that during this course, I can learn of other alternative approaches to my problem and network with early career experts within the ML field.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Ocean Model Parameterizations",
+          "research_interest_long_description": "In his upcoming postdoc at the Geophysical Fluid Dynamics Laboratory at Princeton University, he aims to enhance ocean model parameterizations using machine learning techniques. The focus is on developing methodologies that enable accurate representation of sub-grid scale physics in coarse ocean models. He is particularly interested in the challenges posed by the non-differentiable nature of climate models, which complicates the integration of online training for machine learning models. His goal is to explore various ML-based solutions that balance computational efficiency with numerical stability, contributing to the field of computational geophysics and oceanography.",
+          "font_awesome_icon": "fas fa-water"
+        },
+        {
+          "research_interest_title": "Machine Learning in Climate Science",
+          "research_interest_long_description": "He is keen on applying machine learning methodologies to address complex problems in climate science, particularly in oceanographic modeling. Despite not having direct experience with neural networks, he has acquired a solid foundation in machine learning through formal courses. His primary interest lies in Bayesian optimization and how it can be leveraged to optimize parameters in climate models. By participating in educational platforms focused on machine learning, he seeks to gain insights into innovative strategies and tailor solutions that could be adopted in future research.",
+          "font_awesome_icon": "fas fa-brain"
+        },
+        {
+          "research_interest_title": "Collaborative Research and Networking",
+          "research_interest_long_description": "With a strong motivation to exchange ideas and collaborate with fellow early career researchers, he values the opportunities presented by academic courses and workshops. He understands the importance of networking in the field, especially for gaining different perspectives on challenging aspects of machine learning applications in ocean modeling. By connecting with experts, he hopes to share experiences and learn about alternative approaches that can inspire and refine his upcoming postdoc project, ultimately enhancing his contribution to the scientific community.",
+          "font_awesome_icon": "fas fa-users"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 75,
+    "Name": "perpetua muchiri",
+    "Email": "perpetua.muchiri@universite-paris-saclay.fr",
+    "Position": "Ph.D",
+    "Affiliation": "University Paris Saclay",
+    "Background": "I am in the field of material science studying effects of defects in semiconductors.",
+    "ML_Experience": "I am a beginner in Machine Learning.",
+    "Motivation": "As a physics student i will be studying complex systems and am thus motivated that with the increased power of machine learning as a transformative tool the already existing methods will be expanded in this study. I have interest in areas such as physics informed neural networks, uncertainty quantification which will bring rigorous physical reasoning with flexible ML frameworks as i extract meaningful patterns from simulated data. By attending this training, I aim to build a solid foundation in machine learning theory and practice, gain hands-on experience with relevant tools (e.g., PyTorch, TensorFlow), and learn how to apply these techniques effectively to physical problems. I am enthusiastic about learning from experts, collaborating with peers and equip myself with interdisciplinary skills for research.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Defects in Semiconductors",
+          "research_interest_long_description": "As a Ph.D. student at University Paris Saclay, she focuses on the study of defects in semiconductors, which are crucial in determining the electronic properties and performance of materials in various applications. She investigates how these defects influence the behavior of semiconductor devices and aims to develop a deeper understanding of their impact on functionality. Through her research, she seeks to contribute to the advancement of semiconductor technology, enabling innovations in electronics and photovoltaics.",
+          "font_awesome_icon": "fas fa-bolt"
+        },
+        {
+          "research_interest_title": "Physics Informed Neural Networks",
+          "research_interest_long_description": "She is particularly interested in the application of physics informed neural networks (PINNs) to solve complex physical problems. By integrating physical laws with machine learning frameworks, she hopes to create more robust models that can accurately capture the behavior of complex systems. This interdisciplinary approach aims to combine rigorous physical reasoning with the flexibility of machine learning, opening new avenues for research in material science and beyond.",
+          "font_awesome_icon": "fas fa-network-wired"
+        },
+        {
+          "research_interest_title": "Uncertainty Quantification in ML",
+          "research_interest_long_description": "Her research also encompasses uncertainty quantification in machine learning, an area that is becoming increasingly significant as ML is applied to physical systems. By focusing on this aspect, she aims to enhance the reliability and trustworthiness of machine learning models in predicting outcomes in material science. This approach combines statistical methods with machine learning to provide insights into the confidence of predictions and improve decision-making processes in her research.",
+          "font_awesome_icon": "fas fa-chart-line"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 74,
+    "Name": "Mikkel M\u00f8ller M\u00f8dekj\u00e6r",
+    "Email": "mikkel.moeller@nbi.ku.dk",
+    "Position": "Ph.D.",
+    "Affiliation": "CERN / University of Copenhagen",
+    "Background": "Particle physics, specifically tracking for the ATLAS detector. Here I use machine learning to do track reconstruction, specifically with a focus of fast inference times so it can run as part of the online trigger system. The data is given is hits in the detector and has an output of true hits corresponding to a particle.",
+    "ML_Experience": "I did both my bachelor and master thesis on machine learning in parti-    cle physics. For my bachelor project I did CNN\u2019s on muons after the had    gone through the hough transform, with a focus on running it on FPGA with    HLS4ML. For my masters I did inference studies on CPU, GPU and FPGA for    different machine learning models. Which where Feed forward neural, recursive    neural networks and tree based models. Now in my PhD I am doing machine    learning on with graph neural networks for event filter tracking for the HL-LHC.    I also had one course in machine learning.",
+    "Motivation": "I am very excited to go learn more about different ways of doing machine    learning, and see if there are any nice tricks I can apply to my own work. Which    could get my models to have faster inference or better training. Where especially    physics informed and Bayesian machine learning are fields I would like to know    more about.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Machine Learning in Particle Physics",
+          "research_interest_long_description": "As a Ph.D. student at CERN and the University of Copenhagen, Sander's research focuses on the application of machine learning to particle physics, specifically in the realm of track reconstruction for the ATLAS detector. His work includes utilizing advanced machine learning techniques to improve the speed and accuracy of tracking particles, aiming for efficient inference times suitable for the online trigger system. Sander is eager to explore the potential of various machine learning methodologies and discover innovative approaches that can enhance the performance of his models.",
+          "font_awesome_icon": "fas fa-robot"
+        },
+        {
+          "research_interest_title": "Graph Neural Networks for Event Filtering",
+          "research_interest_long_description": "Sander's research extends into the world of graph neural networks, where he is investigating their application for event filter tracking in the High Luminosity Large Hadron Collider (HL-LHC). His work aims to exploit the relational data between detected particles, improving the efficiency and accuracy of track reconstruction. By leveraging the unique properties of graph neural networks, Sander seeks to contribute to the next generation of particle detection algorithms that can handle the increased complexity of data at the HL-LHC.",
+          "font_awesome_icon": "fas fa-clipboard-list"
+        },
+        {
+          "research_interest_title": "Physics-Informed and Bayesian Machine Learning",
+          "research_interest_long_description": "In his pursuit of deeper knowledge in machine learning techniques, Sander is particularly interested in the fields of physics-informed and Bayesian machine learning. He is motivated to explore how these approaches can provide robust frameworks for enhancing his models, particularly in terms of inference and training efficiency. Through his research, he aims to identify practical tricks and methodologies that can seamlessly integrate with conventional machine learning practices and contribute to advancements in particle physics applications.",
+          "font_awesome_icon": "fas fa-lightbulb"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 67,
+    "Name": "Magnus Oddershede",
+    "Email": "mqo@qfcph.com",
+    "Position": "PhD student",
+    "Affiliation": "University of Copenhagen",
+    "Background": "I work with crystal growth using molecular beam epitaxy for quantum computing purposes. I primarily intend to use ML for representing complex datasets in a finite set of values (floats), which in turn can be compared quantitatively across different samples. For example, we can scan a sample in atomic force microscopy. An experienced domain expert will quickly tell you if it looks \"good\" or \"bad\". In this case we could use various image recognition/processing techniques to extract metrics that quantify these qualitative statements in a way that is systematic and comparable across samples.",
+    "ML_Experience": "I took AppML in 2023, and I have since used different regressors and classifiers such as kNN, random forests and DBscan as components in large analysis scripts.",
+    "Motivation": "I hope to gain a better understanding of what ML models are suitable for a given problem. I also hope to become more comfortable with more advanced ML methods and neural networks. It would also be really cool to learn how to practically train a model using a GPU rather than the CPU (fx using cuda, cudf), and how to optimize the code for running on a GPU.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Crystal Growth Techniques",
+          "research_interest_long_description": "At the University of Copenhagen, the PhD student is dedicated to exploring crystal growth through molecular beam epitaxy. This specialized research focuses on optimizing the conditions for crystal growth, which is vital for the development of quantum computing technologies. The student aims to refine these techniques to produce high-quality crystals that can enhance the performance of quantum devices. Their work involves a meticulous examination of growth parameters to achieve desirable properties in crystals, emphasizing the importance of material quality in cutting-edge quantum applications.",
+          "font_awesome_icon": "fas fa-gem"
+        },
+        {
+          "research_interest_title": "Machine Learning in Materials Science",
+          "research_interest_long_description": "The PhD student is leveraging machine learning (ML) methodologies for advanced analysis in materials science. By utilizing techniques such as image recognition and quantitative metric extraction from atomic force microscopy data, they are enabling systematic comparisons of different samples. Their goal is to translate qualitative assessments into quantitative data using various ML algorithms, including k-Nearest Neighbors and random forests. This integration aims to foster a deeper understanding of material properties and streamline analysis processes in the field.",
+          "font_awesome_icon": "fas fa-robot"
+        },
+        {
+          "research_interest_title": "GPU-Accelerated Machine Learning",
+          "research_interest_long_description": "Aspiring to elevate their proficiency in machine learning, the PhD student is particularly interested in GPU-accelerated learning techniques. They are motivated to learn how to effectively train ML models using GPUs, leveraging frameworks like CUDA and cuDF for optimization. Their aim is to understand which model structures suit specific problems and how to maximize computational efficiency. This interest underscores a broader goal of integrating high-performance computing into their research, facilitating faster data analysis and enhancing their understanding of complex datasets in quantum materials.",
+          "font_awesome_icon": "fas fa-play-circle"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 50,
+    "Name": "Krist\u00fdna Onderkov\u00e1",
+    "Email": "onderkova@ufal.mff.cuni.cz",
+    "Position": "PhD student",
+    "Affiliation": "Charles University in Prague, Faculty of Mathematics and Physics",
+    "Background": "I hold a Master\u2019s in Physics of Surfaces and Ionized Media (Charles University) and previously worked as an experimentalist at the Institute of Physics (Czech Academy of Sciences), using microscopy, spectroscopy, and magnetometry techniques. I later transitioned to machine learning and am now pursuing a PhD in Computational Linguistics. However, I am still a physicist at heart.",
+    "ML_Experience": "I hold a Master's in Data Analytics from the University of Galway. I have three years of experience as a Data Scientist in a software company, working on classical natural language processing and large language model agents, among other things. I currently work on textual inference in language models - specifically on (structured) data-to-text generation by combining neural models with symbolic reasoning via code execution.",
+    "Motivation": "I am looking to merge my backgrounds in physics and computer science and physics - two fields I have not previously combined. I am interested in learning from examples and case studies that integrate ML and physics and would like to explore whether that could be relevant to my future work. Overall, I am interested in using language models, as tools to support scientific research.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Machine Learning in Physics",
+          "research_interest_long_description": "John is exploring the intersection of machine learning and physics, aiming to leverage computational techniques to solve complex physical problems. With a robust background in Physics of Surfaces and Ionized Media, John is particularly interested in how machine learning can enhance experimental data analysis and predictive modeling in physics. He believes that the innovative application of data-driven methods can significantly improve the understanding of physical phenomena, ultimately bridging gaps between computational insights and traditional physics research.",
+          "font_awesome_icon": "fas fa-flask"
+        },
+        {
+          "research_interest_title": "Natural Language Processing for Scientific Research",
+          "research_interest_long_description": "John is engaged in research focusing on natural language processing (NLP) and its application in scientific research. His current work on textual inference and structured data-to-text generation aims to create language models capable of supporting and enhancing scientific inquiry. By combining neural models with symbolic reasoning, John seeks to develop tools that facilitate clearer communication of complex scientific ideas, enabling researchers to leverage the power of language models to efficiently process and disseminate research findings.",
+          "font_awesome_icon": "fas fa-book"
+        },
+        {
+          "research_interest_title": "Integration of Machine Learning and Symbolic Reasoning",
+          "research_interest_long_description": "John is particularly fascinated by the integration of machine learning and symbolic reasoning within computational linguistics. His research investigates how neural networks can be augmented with symbolic reasoning techniques, promoting a more rational framework for machine learning systems. John aims to explore methodologies that combine traditional physics principles with modern data-driven approaches to enhance model performance and reasoning capabilities in language generation tasks, making the connection between computational strategies and theoretical understandings in both physics and linguistics.",
+          "font_awesome_icon": "fas fa-cogs"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 54,
+    "Name": "Beatriz Isabel Paquim do Cruzeiro",
+    "Email": "beatriz.cruzeiro@medma.uni-heidelberg.de",
+    "Position": "PhD",
+    "Affiliation": "Heidelberg University",
+    "Background": "I am applying Deep Learning to electroweak physics at the LHC. I am currently using a dataset with Z + jets information. Each NumPy file consists of several arrays, in which the names begin with either 'gen_' or 'sim_' depending on which set of jets they correspond to. The name of each array ends in a key word indicating what it contains. With the exception of 'gen_Zs' (which contains the Pt, y and phi of the final  boson). There is both a generated and simulated version of each array.",
+    "ML_Experience": "My Machine Learning experience dates back to my Bachelor's thesis, where I worked with Artificial Neural Networks for precise location of gamma-ray interactions in pixelated scintillators with multiplexed readout. Afterwards, I held a research grant to continue this work in the laboratory of Radiation Detection and Medical Imaging of I3N-Aveiro of the Physics Department at the University of Aveiro. Besides this, I also did an internship at INNOWAVE company, in the ViGIE Solutions project, a healthcare platform integrating artificial intelligence in specialised sensors. Currently, I am working with Machine Learning for electroweak physics at the LHC.",
+    "Motivation": "I am very interested in the integration of Bayesian neural networks with neural operators like DeepOnet. In addition to quantifying uncertainties, I am interested in investigating and reducing overconfident uncertainty bounds and calibrating them as best as possible to obtain meaningful uncertainties that are representative of the real data. Such a problem typically arises due to prior approximations that do not take into account interdependencies between factorised Gaussian distributions. My aim is to investigate frameworks that offer greater robustness to prior misspecification, and to achieve posterior approximations that are less sensitive and more robust to prior misspecification.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Deep Learning in Electroweak Physics",
+          "research_interest_long_description": "Max is applying advanced Deep Learning techniques to the study of electroweak physics at the Large Hadron Collider (LHC). He focuses on analyzing datasets that consist of Z + jets information, utilizing NumPy files with both generated and simulated arrays. His research aims to enhance the understanding of particle interactions through the innovative use of machine learning, thus contributing to more precise predictions and insights in high-energy physics.",
+          "font_awesome_icon": "fas fa-atom"
+        },
+        {
+          "research_interest_title": "Bayesian Neural Networks",
+          "research_interest_long_description": "Max has a deep interest in the integration of Bayesian neural networks with neural operators, particularly evaluating frameworks like DeepOnet. He endeavors to enhance uncertainty quantification while addressing issues related to overconfident uncertainty bounds. His goal is to calibrate models that accurately reflect real data uncertainties, thus facilitating better statistical conclusions in complex datasets that arise in particle physics.",
+          "font_awesome_icon": "fas fa-brain"
+        },
+        {
+          "research_interest_title": "Robust Machine Learning Techniques",
+          "research_interest_long_description": "Max explores the robustness of machine learning algorithms, especially in the context of prior misspecification in Bayesian frameworks. He is dedicated to investigating methods that yield less sensitive posterior approximations, ultimately aiming to create models that are consistent in the face of interdependencies between factorized distributions. This research is pivotal for the reliability of predictions in high-stakes environments such as particle physics.",
+          "font_awesome_icon": "fas fa-shield-alt"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 45,
+    "Name": "Mohammed Siddhique Para Kkadan",
+    "Email": "65318160@cuni.cz",
+    "Position": "Ph.D.",
+    "Affiliation": "Faculty of Mathematics and Physics, Charles University, Prague",
+    "Background": "I am currently pursuing a PhD in computational biophysics, focusing on modeling the vibrational spectroscopy of biomolecules, particularly nucleic acids. I\u2019d like to apply machine learning to uncover patterns linking structural parameters to observed spectra, helping us better interpret the data. The data is mostly generated from classical molecular dynamics simulations and quantum chemical calculations of the molecule of interest.",
+    "ML_Experience": "I have been using the Python programming language for data analysis for quite a long time. I also took some introductory machine-learning courses, which gave me hands-on experience with classification and regression models, mostly working with Scikit-learn.",
+    "Motivation": "This summer school is an excellent opportunity to improve my machine-learning skills and learn better techniques for my research. It will also help me connect with people having similar expertise, opening up potential collaborations in the future.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Computational Biophysics",
+          "research_interest_long_description": "Lukas is engaged in cutting-edge research in computational biophysics, specifically modeling the vibrational spectroscopy of biomolecules such as nucleic acids. His work involves the integration of classical molecular dynamics simulations and quantum chemical calculations to generate rich datasets that reflect the vibrational characteristics of these essential biological molecules. By leveraging his expertise in Python for data analysis, Lukas aims to develop a framework that illustrates the correlation between structural parameters and observable spectral data, paving the way for deeper insights into biomolecular behavior.",
+          "font_awesome_icon": "fas fa-flask"
+        },
+        {
+          "research_interest_title": "Machine Learning Applications",
+          "research_interest_long_description": "Lukas is exploring the application of machine learning techniques to sophisticated biophysical problems. With foundational knowledge acquired from introductory machine learning courses, he is eager to apply classification and regression models using tools like Scikit-learn. His goal is to enhance his analytical capabilities, allowing him to effectively identify patterns within complex datasets derived from molecular simulations. This focus not only promises to refine his research outcomes but also to innovate data interpretation methodologies in the field of biophysics.",
+          "font_awesome_icon": "fas fa-cog"
+        },
+        {
+          "research_interest_title": "Collaborative Research and Networking",
+          "research_interest_long_description": "Eager to foster collaborations, Lukas recognizes the importance of connecting with peers who share similar research interests. By participating in summer schools and workshops, he hopes to enhance his machine learning skills while simultaneously networking with other early-career researchers. This collaborative spirit is crucial for his academic journey, facilitating the exchange of ideas and techniques that could lead to innovative advancements in computational biophysics and beyond. Lukas is committed to building a vibrant professional community that supports mutual growth and knowledge sharing.",
+          "font_awesome_icon": "fas fa-users"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 28,
+    "Name": "Yogesh Paul",
+    "Email": "yogeshpaul@ymail.com",
+    "Position": "PhD",
+    "Affiliation": "University of Tuebingen",
+    "Background": "I am a neuroscientist specializing in neuromodulation, focusing on the development of non-invasive therapies for stroke patients. My work involves analyzing complex physiological signals, including EEG, EMG, and other time-series data, to better understand neural and muscular activity. These datasets often come with labels but can also be labeled post-acquisition as needed. I use Python and MATLAB to design experiments, develop analytical pipelines, and apply machine learning techniques to extract meaningful insights from data. My ultimate goal is to translate advanced neuroscience into innovative therapies that improve recovery outcomes for individuals with neurological conditions such as stroke.",
+    "ML_Experience": "I have applied machine learning techniques to classify and analyze physiological signals such as EEG and EMG time-series data. Recently, I collaborated with colleagues from Charles University to participate in the 'AI and ML for Microscopy' Hackathon, organized by Prof. Sergei Kalinin (University of Tennessee/PNNL). During the event, we developed an AI-driven virtual sensing method for thermal mapping in an electron-ion trapping vacuum system. This work also culminated in a preprint, soon to be uploaded to arXiv. My expertise includes leveraging machine learning algorithms for signal classification, feature extraction, and predictive modeling to drive advancements in neuroscience and related fields.",
+    "Motivation": "I am excited to apply for the \"Between Models and Reality\" Ph.D. school on Machine Learning in Physics. I am eager to deepen my understanding of advanced machine learning techniques, such as uncertainty quantification, generative modeling, and physics-informed neural networks. I hope to apply these methods to improve data interpretation and control in experimental physics, particularly in electron-ion trapping systems, while also extending their use to neuroscience applications like analyzing complex physiological signals such as EEG and EMG. By bridging physics and neuroscience through machine learning, I aim to tackle challenges in both fields and contribute to meaningful advancements.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Neuromodulation Therapies",
+          "research_interest_long_description": "Max is focused on the development of non-invasive neuromodulation therapies aimed at enhancing recovery outcomes for stroke patients. His research involves analyzing complex physiological signals, including EEG and EMG, to gain deeper insights into the neural and muscular activity associated with stroke recovery. By utilizing advanced signal processing techniques and machine learning, Max seeks to translate neuroscientific findings into innovative therapeutic interventions that can significantly improve the rehabilitation process for individuals with neurological conditions.",
+          "font_awesome_icon": "fas fa-brain"
+        },
+        {
+          "research_interest_title": "Machine Learning in Neuroscience",
+          "research_interest_long_description": "Max applies machine learning techniques to classify and analyze physiological signals such as EEG and EMG time-series data. His experience includes developing analytical pipelines in Python and MATLAB, where he harnesses machine learning algorithms for signal classification and predictive modeling. Max aims to leverage these skills to improve the interpretation of complex physiological data, ultimately enhancing the effectiveness of neuroscience research and contributing important insights into neural dynamics and recovery processes.",
+          "font_awesome_icon": "fas fa-chart-line"
+        },
+        {
+          "research_interest_title": "Bridging Physics and Neuroscience",
+          "research_interest_long_description": "Motivated by his desire to deepen his understanding of advanced machine learning techniques, Max is interested in bridging the gap between physics and neuroscience. He aims to explore applications of uncertainty quantification, generative modeling, and physics-informed neural networks to both experimental physics and neuroscience contexts. By integrating these methodologies, Max hopes to address critical challenges in data interpretation and control within electron-ion trapping systems, while also extending their relevance to the analysis of complex physiological signals, fostering interdisciplinary advancements.",
+          "font_awesome_icon": "fas fa-flask"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 70,
+    "Name": "Norman Pedersen",
+    "Email": "norman.pedersen@ward247.com",
+    "Position": "Ph.D.",
+    "Affiliation": "NBI",
+    "Background": "Industrial Ph.D. Machine Learning in Healthcare",
+    "ML_Experience": "Extensive experience",
+    "Motivation": "I hope to learn about transformers",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Machine Learning in Healthcare",
+          "research_interest_long_description": "NBI\u2019s Ph.D. student is deeply engaged in exploring the intersection of machine learning and healthcare. With extensive experience in the field, they are focused on implementing advanced ML algorithms to enhance diagnostic accuracy and patient outcomes. Their work aims to develop predictive models that can assist healthcare professionals in making informed decisions. By integrating machine learning techniques into clinical workflows, they aspire to contribute to more personalized medicine approaches, ultimately improving patient care and treatment efficiency.",
+          "font_awesome_icon": "fas fa-stethoscope"
+        },
+        {
+          "research_interest_title": "Transformers in Healthcare Applications",
+          "research_interest_long_description": "Eager to expand their expertise, NBI's Ph.D. student is particularly motivated to learn about the application of transformers in healthcare settings. They are intrigued by how transformer architectures can revolutionize the processing of time-series healthcare data, such as electronic health records and wearable sensor outputs. By understanding and applying these advanced models, they aim to uncover new insights into patient health patterns and potentially improve early detection of diseases, making a significant impact in the field of healthcare technology.",
+          "font_awesome_icon": "fas fa-brain"
+        },
+        {
+          "research_interest_title": "Predictive Analytics for Patient Outcomes",
+          "research_interest_long_description": "NBI\u2019s Ph.D. student is focused on harnessing predictive analytics to optimize patient outcomes. They leverage machine learning algorithms to analyze historical health data, identifying trends and correlations that could influence future health trajectories. Their research pursues innovative solutions to streamline the decision-making process for healthcare providers, ultimately leading to better prevention and intervention strategies. By integrating their findings into clinical practice, they aim to enhance the overall quality of care and contribute to the advancement of data-driven healthcare solutions.",
+          "font_awesome_icon": "fas fa-chart-line"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 10,
+    "Name": "Antoine Petitjean",
+    "Email": "petitjean@thphys.uni-heidelberg.de",
+    "Position": "Ph.D",
+    "Affiliation": "Heidelberg University",
+    "Background": "Doing a Ph.D in machine learning for theoretical particle physics as part of the AIPHY network, currently working on high-dimensional unfolding of jet constituents kinematics",
+    "ML_Experience": "I worked on various projects related to machine learning and deep leaning applications to theoretical physics, using PyTorch, JAX, TensorFlow, Scikit-Learn...",
+    "Motivation": "I am a member of the AIPHY network.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Machine Learning in Particle Physics",
+          "research_interest_long_description": "Max is currently exploring the cutting-edge intersection of machine learning and theoretical particle physics. His work focuses on developing innovative algorithms that leverage machine learning techniques to analyze complex datasets in high-energy physics. By using frameworks such as PyTorch and TensorFlow, Max aims to enhance our understanding of particle interactions and contribute to advancements in the field. This research not only addresses fundamental questions in theoretical physics but also improves the performance of data analysis in experiments, paving the way for new discoveries.",
+          "font_awesome_icon": "fas fa-microchip"
+        },
+        {
+          "research_interest_title": "High-Dimensional Data Analysis",
+          "research_interest_long_description": "Max's interest in high-dimensional unfolding of jet constituents kinematics is shaping his research direction. He is investigating state-of-the-art techniques and methodologies to accurately interpret and extract meaningful insights from high-dimensional data in particle physics. This endeavor is crucial as it provides a deeper understanding of the underlying physical processes that govern particle collisions. Max's work involves not only theoretical developments but also practical applications, thereby bridging the gap between theory and experimental results in high-energy physics.",
+          "font_awesome_icon": "fas fa-chart-line"
+        },
+        {
+          "research_interest_title": "Collaboration within AIPHY Network",
+          "research_interest_long_description": "As a member of the AIPHY network, Max is keen on fostering collaboration among researchers engaged in theoretical particle physics. He believes that sharing knowledge and resources with fellow academics can lead to innovative solutions and breakthroughs in the field. Max actively participates in workshops and discussions within the network to stay updated on the latest research trends, and he aims to contribute to joint initiatives that enhance the integration of machine learning methodologies in particle physics at large.",
+          "font_awesome_icon": "fas fa-users"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 49,
+    "Name": "Louis-Martin Poitras",
+    "Email": "louis-martin.poitras@sorbonne-universite.fr",
+    "Position": "Ph.D. candidate",
+    "Affiliation": "LPTMC Sorbonne Universit\u00e9",
+    "Background": "I am a PhD student in theoretical physics, focusing on modeling solid electrolytes for next-generation batteries. My goal is to use machine learning-based force field models to predict the structural and dynamic properties of these materials. The data I analyze comes from molecular dynamics simulations (.xyz format, ~10\u00b2 to 10\u00b3 atoms, thousands of configurations) and includes information on atomic positions, energies, and forces. This data is partially labeled and requires a supervised approach to extract relevant physical relationships.",
+    "ML_Experience": "I am currently working with the DeePMD kit in order to reproduce the methodology in this paper : https://doi.org/10.1038/s41467-025-56322-x. The main idea is to train a machine learning force field using data from ab initio molecular dynamics simulations.",
+    "Motivation": "At the \"Between Models and Reality\" Ph.D. school, I aim to deepen my understanding of machine learning techniques and their applications in physics, particularly for solid-state electrolytes and ion transport mechanisms. My research focuses on using machine learning potentials to simulate disordered systems like lithium thiophosphates to enhance ionic conductivity in all-solid-state batteries.    I hope to learn advanced approaches, such as Bayesian neural networks and physics-informed models, to better capture the complex dynamics of ion transport in disordered materials. With my data, I intend to develop more accurate models to predict ionic conductivity and understand disorder-induced mechanisms. Engaging with world-class researchers will provide invaluable insights for my project and contribute to advancing energy storage technologies.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Modeling Solid Electrolytes",
+          "research_interest_long_description": "At LPTMC Sorbonne Universit\u00e9, the Ph.D. candidate is dedicated to exploring the modeling of solid electrolytes for next-generation batteries. Their research utilizes machine learning-based force field models to predict the structural and dynamic properties of these materials. By analyzing data from molecular dynamics simulations, they aim to uncover critical physical relationships and enhance the performance of solid-state electrolytes. The ultimate goal is to advance the understanding of ionic conductivity within these materials and develop methodologies that could inform future battery technologies.",
+          "font_awesome_icon": "fas fa-battery-full"
+        },
+        {
+          "research_interest_title": "Machine Learning in Physics",
+          "research_interest_long_description": "The student is currently focused on integrating machine learning techniques into theoretical physics, specifically within the context of solid electrolytes. They work with the DeePMD kit to replicate cutting-edge methodologies in machine learning force fields as presented in recent scientific literature. This research not only highlights the application of machine learning in simulating disordered systems but also aims to harness these advanced techniques to better understand ion transport mechanisms and enhance ionic conductivity in all-solid-state batteries.",
+          "font_awesome_icon": "fas fa-robot"
+        },
+        {
+          "research_interest_title": "Ion Transport Mechanisms",
+          "research_interest_long_description": "With a keen interest in the dynamics of ion transport, the Ph.D. candidate seeks to deepen their knowledge of disordered systems like lithium thiophosphates. They are determined to understand the complex dynamics of ionic movement within these materials and how disorder impacts conductivity. By engaging with advanced approaches, such as Bayesian neural networks and physics-informed models, the student aims to capture the nuances of these mechanisms and contribute to breakthroughs in energy storage technology.",
+          "font_awesome_icon": "fas fa-lightbulb"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 43,
+    "Name": "Jelena Radovi\u0107",
+    "Email": "jelena.radovic@matfyz.cuni.cz",
+    "Position": "Ph.D. student",
+    "Affiliation": "Department of Atmospheric Physics, Faculty of Mathematics and Physics, Charles University, Prague",
+    "Background": "I work on urban climate modeling (air quality, thermal comfort) with large eddy simulations in high-resolution (10m and below). I employ the LES PALM model, which is computationally expensive and requires HPC infrastructure. Due to the level of detail of the simulation model outputs are massive. Data are 3D gridded fields in the NetCDF format and exceed 1 TB per standard 10 m resolution simulation. ML models can be trained on a set of PALM outputs to predict results under new conditions and provide swift development of what-if scenarios for air quality or urban heat mitigation management with my model.",
+    "ML_Experience": "I do not have any hands-on ML experience. I am only theoretically introduced to the subject, and have been reading about its implementation in my field.",
+    "Motivation": "The implementation of ML in my field has been increasing in the past years. Due to the robustness of the CFD model I am using, it would be of great help to deepen my understanding of ML, gain hands-on experience, and learn techniques that can be applied to complex urban climate models such as PALM. I would like to learn how to use ML to efficiently approximate PALM outputs under varying scenarios,  produce sensitivity studies, and reduce computational costs while keeping the quality and reliability of the information provided in such a way.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Urban Climate Modeling",
+          "research_interest_long_description": "John is focused on urban climate modeling, specifically investigating air quality and thermal comfort using high-resolution large eddy simulations (LES). He employs the LES PALM model, known for its precision albeit computational expense, particularly in high-resolution scenarios of 10 meters or less. John aims to enhance urban planning and management by analyzing microclimatic effects in dense urban environments, thereby exploring sustainable solutions to mitigate heat and improve air quality. His goal is to provide insightful data-driven recommendations that support urban sustainability and resiliency in the face of climate change.",
+          "font_awesome_icon": "fas fa-city"
+        },
+        {
+          "research_interest_title": "High-Performance Computing for Data Simulation",
+          "research_interest_long_description": "John's work requires robust high-performance computing (HPC) resources due to the extensive data output generated from the LES PALM model, with simulations typically exceeding 1 TB in size at standard resolutions. He understands that the massive datasets necessitate advanced computational techniques to manage and process information efficiently. John is keen to improve his skills in HPC infrastructure, aiming to optimize simulations and data handling, which are critical for effective analysis of urban climate impacts and scenario modeling.",
+          "font_awesome_icon": "fas fa-processor"
+        },
+        {
+          "research_interest_title": "Machine Learning in Climate Research",
+          "research_interest_long_description": "As the application of machine learning (ML) continues to grow in environmental sciences, John seeks to bridge his theoretical knowledge of ML with practical experience. He hopes to leverage ML techniques to analyze the rich datasets produced by the PALM model. By developing algorithms that can approximate outcomes from various urban climate scenarios, he aims to create sensitivity studies that will maximize data utility while minimizing computational costs. John is dedicated to incorporating ML methodologies that enhance the functionality and efficiency of urban climate modeling.",
+          "font_awesome_icon": "fas fa-brain"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 37,
+    "Name": "Rishi Raj",
+    "Email": "rishiraj.1012exp@gmail.com",
+    "Position": "Ph.D.",
+    "Affiliation": "Sorbonne University",
+    "Background": "I am a second-year PhD student in theoretical physics at Sorbonne University. Although my PhD research focuses on the mathematical physics of BPS black holes and Donaldson\u2013Thomas invariants, I have a strong interest in applying machine learning to physics. I\u2019m increasingly drawn to data-driven approaches and currently contribute to a phenomenology project involving collider data analysis. My aim is to apply machine learning to structured, high-dimensional data from particle detectors, exploring background rejection, anomaly detection, and inference. This complements my mathematical training and aligns with my broader goal of bridging theoretical insights with modern computational tools in physics research.",
+    "ML_Experience": "I\u2019m self-training in modern AI methods and actively applying them in personal and research projects. During my master\u2019s, I worked on a novel application of neural networks to explore aspects of holography (AdS/CFT), now published in Phys. Rev. D [DOI: 10.1103/PhysRevD.111.026016]. Currently, I\u2019m involved in a phenomenology project extending [arXiv:2411.04526], using advanced NN architectures beyond XGBoost for background rejection in SUSY searches, especially for smuons in compressed spectra. I regularly use PyTorch, am building an ML model portfolio on GitHub, and have completed coursework in neural networks, optimization, and statistical learning.",
+    "Motivation": "I want to gain practical expertise in state-of-the-art machine learning methods and their application to real physics data. This school is a perfect opportunity to learn from experts, exchange ideas with peers, and refine my understanding of uncertainty estimation, model interpretability, and architectures suited for physics. As someone working at the boundary of formal theory and collider phenomenology, I believe these tools are essential for future discovery. Attending this school would be an important step in integrating ML into my research toolkit and moving toward a career at the interface of theoretical and computational physics.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Mathematical Physics of BPS Black Holes",
+          "research_interest_long_description": "In his PhD research, [FirstName] is delving into the mathematical underpinnings of BPS black holes, aiming to develop a deeper understanding of their properties and implications within theoretical physics. This area of study involves intricate mathematical structures and models that connect to various aspects of high-energy physics and quantum field theory. By exploring Donaldson\u2013Thomas invariants, he seeks to contribute to the broader discourse on black hole entropy and stability, linking complex mathematics with physical intuition. His goal is to unveil novel insights that could shed light on both the theoretical framework and practical implications of black hole phenomena.",
+          "font_awesome_icon": "fas fa-math"
+        },
+        {
+          "research_interest_title": "Machine Learning in Physics",
+          "research_interest_long_description": "Drawing from his background in theoretical physics, [FirstName] is increasingly interested in integrating machine learning techniques into his research. He is particularly focused on applying data-driven methods to analyze structured, high-dimensional data generated by particle detectors. His work involves anomaly detection, background rejection, and inference, with a keen interest in improving the efficacy of searches for supersymmetric particles. This enthusiasm for machine learning is complemented by his self-training efforts and his active participation in projects that leverage advanced neural network architectures. By bridging the gap between theoretical insights and computational advancements, he strives to facilitate groundbreaking discoveries in the realm of particle physics.",
+          "font_awesome_icon": "fas fa-robot"
+        },
+        {
+          "research_interest_title": "Collider Phenomenology",
+          "research_interest_long_description": "As [FirstName] engages with collider phenomenology, he is dedicated to applying modern machine learning methods to analyze collider data, particularly in the context of searching for new physics. His current project involves the rigorous examination of data related to compressed spectra and smuons, where he employs sophisticated techniques to enhance background rejection in searches for supersymmetry. With a goal of refining uncertainty estimation and model interpretability, he is positioned at the intersection of theoretical physics and computational prowess. His efforts are aimed at pushing the boundaries of what can be achieved in phenomenological studies, ultimately assisting the physics community in making informed predictions and discoveries.",
+          "font_awesome_icon": "fas fa-chart-line"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 73,
+    "Name": "Aman Nadimpalli Raju",
+    "Email": "aman.raju@nbi.ku.dk",
+    "Position": "PhD",
+    "Affiliation": "Dark, NBI, University of Copenhagen",
+    "Background": "I am studying astrophysics. Specifically, I'm looking at large quantities (terra to Petabytes) of galactic data from the lsst and euclid missions",
+    "ML_Experience": "I utilized neural processes and transformers in my masters thesis to study astrophysical time series. Furthermore, I have taken courses and have a little experience working on ML datasets on kaggle and other open datasets",
+    "Motivation": "I would like to learn more about advanced ML and come up with some ideas for my PhD project",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Astrophysical Data Analysis",
+          "research_interest_long_description": "In his PhD research, he focuses on analyzing vast amounts of galactic data from the LSST and Euclid missions. His work aims to extract meaningful insights from terabytes to petabytes of data, contributing to our understanding of the universe. By leveraging sophisticated data processing techniques, he aims to uncover new patterns and phenomena within the rich datasets provided by these space missions.",
+          "font_awesome_icon": "fas fa-telescope"
+        },
+        {
+          "research_interest_title": "Machine Learning in Astrophysics",
+          "research_interest_long_description": "He is deeply interested in applying advanced machine learning techniques, such as neural processes and transformers, to astrophysical time series data. His master's thesis demonstrated the potential of these methodologies in analyzing cosmic phenomena. He aims to expand this work during his PhD by exploring new avenues for combining machine learning and astrophysics, potentially leading to innovative solutions to longstanding problems in the field.",
+          "font_awesome_icon": "fas fa-brain"
+        },
+        {
+          "research_interest_title": "Exploratory Research in Advanced ML",
+          "research_interest_long_description": "Eager to dive deeper into the world of machine learning, he seeks to learn about cutting-edge techniques and theories that can enhance his research. His motivation is not only to gain knowledge but also to generate novel ideas for his PhD project. He tries to stay updated with the latest advancements in machine learning through workshops, courses, and collaborative efforts to enrich his understanding and practical skills in handling complex datasets.",
+          "font_awesome_icon": "fas fa-chart-line"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 6,
+    "Name": "Theresa Reisch",
+    "Email": "theresa.reisch@unige.ch",
+    "Position": "PhD student",
+    "Affiliation": "University of Geneva",
+    "Background": "My background is in high-energy physics and analyses in the ATLAS experiment at the LHC, which means large, unlabelled datasets, but also large, labelled simulations. Precisely, I have been working on top quark reconstruction and anomaly detection in particle identification. Right now, I am working on algorithms for flavour tagging and classification algorithms for weakly supervised searches.",
+    "ML_Experience": "I have attended basic courses about machine learning at university, participated in an Erum-Data workshop about machine learning and did a project about AutoEncoders. With the start of my PhD, I also started looking into transformer models and optimal transport.",
+    "Motivation": "I think I could well profit from both the advanced lectures given the experienced and successful speakers as well as the hands-on sessions and projects. I hope to gain more insights into the possibilities of machine learning in physics and potentially find applications and new ideas for it in my own research. I also look forward to meeting many new inspiring people and hopefully forming some connections for future collaboration.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Flavour Tagging Algorithms",
+          "research_interest_long_description": "As a dedicated PhD student at the University of Geneva, My interest lies in the development of advanced algorithms for flavour tagging in particle physics. This research is particularly focused on enhancing the accuracy of particle identification within the ATLAS experiment at the LHC. By leveraging both labelled simulations and large unlabelled datasets, My work aims to refine the reconstruction techniques of top quarks, making significant strides in the field of high-energy physics.",
+          "font_awesome_icon": "fas fa-flask"
+        },
+        {
+          "research_interest_title": "Anomaly Detection in Particle Physics",
+          "research_interest_long_description": "My research also encompasses anomaly detection methods that aim to uncover rare events in high-energy physics datasets. This aspect of My work is critical for identifying outliers or unexpected phenomena in particle interactions. Utilizing machine learning techniques, My goal is to enhance the detection capabilities of the ATLAS experiment, leading to potential discoveries and a deeper understanding of fundamental particles and their behaviors.",
+          "font_awesome_icon": "fas fa-detective"
+        },
+        {
+          "research_interest_title": "Machine Learning Applications in Physics",
+          "research_interest_long_description": "My motivation extends to exploring the vast possibilities of machine learning applications in the realm of physics. With a foundational background in machine learning, including exposure to transformer models and optimal transport, I aim to bridge the gap between computational methods and particle physics analyses. I am particularly interested in collaborating with others to identify innovative approaches that can streamline data analysis processes and enhance predictive modelling in high-energy physics experiments.",
+          "font_awesome_icon": "fas fa-brain"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 31,
+    "Name": "Henning Rose",
+    "Email": "henning.rose@desy.de",
+    "Position": "Ph.D.",
+    "Affiliation": "University of Hamburg",
+    "Background": "I'm studying particle physics, focusing on foundation models to analyze calorimeter and jet data, both represented as point clouds.     Calorimeter data captures energy deposits in detector cells, typically thousands of points per event, formatted as 3D coordinates (x, y, z) with energy values. Jet data, from particle collisions, includes similar point cloud structures, with sizes below hundreds of points per jet. Labels might include particle type (e.g., quark, gluon), energy, or event classification (e.g., signal vs. background), depending on the task\u2014often millions of events in datasets.",
+    "ML_Experience": "Worked in my Bachelor and Master thesis on machine learning topics in particles physics. My Master was focused on foundation models, i am familiar with generative transformers",
+    "Motivation": "I hope to deepen my understanding of machine learning techniques, particularly in handling complex point cloud data from particle physics. Learn about state-of-the-art techniques and meet experts in the field and connect with them",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Particle Physics and Machine Learning",
+          "research_interest_long_description": "Max is exploring the intersection of particle physics and machine learning, specifically studying how foundation models can be utilized to analyze complex data from calorimeters and jets. His research involves processing point cloud data that represents energy deposits in detector cells, represented as 3D coordinates with energy values. By applying advanced machine learning techniques, he aims to enhance the understanding of particle interactions and improve the classification of particle types and event outcomes. This work not only advances theoretical knowledge but also holds significant practical implications for future experiments in high-energy physics.",
+          "font_awesome_icon": "fas fa-atom"
+        },
+        {
+          "research_interest_title": "Data Analysis in High-Energy Experiments",
+          "research_interest_long_description": "Max is focused on developing innovative methods to analyze large datasets generated by high-energy particle collisions. His goal is to refine the techniques used to process and interpret calorimeter and jet data, which often involve millions of data points. Through his research, he seeks to identify patterns and signals within the noise of complex datasets, essential for distinguishing between different types of particles and event classifications. His interest in point cloud representations allows him to leverage cutting-edge machine learning models to push the boundaries of current analytical capabilities in particle physics.",
+          "font_awesome_icon": "fas fa-database"
+        },
+        {
+          "research_interest_title": "Generative Models for Physics Data",
+          "research_interest_long_description": "Max is particularly intrigued by the use of generative models, such as transformers, in the domain of particle physics data analysis. His past academic work has provided him with a solid foundation in machine learning, and he is eager to apply generative techniques to enhance data analysis in his current research. By investigating how these models can synthesize realistic particle event data, he hopes to create tools that can simulate scenarios for testing experimental setups or generating augmented datasets. This research has the potential to unlock new possibilities in theoretical predictions and event reconstruction in physics.",
+          "font_awesome_icon": "fas fa-rocket"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 52,
+    "Name": "Daniel Schiller",
+    "Email": "schiller@thphys.uni-heidelberg.de",
+    "Position": "Ph.D.",
+    "Affiliation": "Institute for Theoretical Physics Heidelberg",
+    "Background": "I am a Ph.D student of Prof. Tilman Plehn. My Ph.D. research is about Foundation Models for Fundamental Physics. Currently, I am working on Foundation Models for cosmological data, in particular for the Square Kilometer Array.",
+    "ML_Experience": "I have many Machine Learning experience, for instance through lectures, my own research, seminars... In particular, I specialised on transformer architectures and foundation models.",
+    "Motivation": "I want to get an overview about the research projects/areas of 4EU+ AIPHY community. Furthermore, I would like to enlarge my knowledge about the topics of this school. Finally, I would like to give the tutorial for Tilman Plehn's lecture together with Antione Petitjean.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Foundation Models in Physics",
+          "research_interest_long_description": "He is exploring the potential of Foundation Models in the context of fundamental physics, particularly how these models can enhance our understanding of complex physical theories. By integrating advanced machine learning techniques, he aims to bridge the gap between theoretical physics and data-driven insights. His current focus is on applying these models to analyze cosmological data from the Square Kilometer Array, which is a significant project in the field of astrophysics.",
+          "font_awesome_icon": "fas fa-rocket"
+        },
+        {
+          "research_interest_title": "Machine Learning Techniques",
+          "research_interest_long_description": "With a strong background in machine learning, he has gained extensive experience in various algorithms and architectures, emphasizing transformer models. His work involves applying these techniques not only in theoretical contexts but also in practical scenarios where data interpretation is crucial. He aims to develop innovative approaches to apply machine learning in physics, which can help simplify complex datasets and reveal new patterns in cosmological research.",
+          "font_awesome_icon": "fas fa-brain"
+        },
+        {
+          "research_interest_title": "Collaboration and Community Engagement",
+          "research_interest_long_description": "He is motivated to actively engage with the 4EU+ AIPHY community to broaden his research horizons and collaborate with peers. His intention to co-conduct a tutorial for Tilman Plehn's lecture illustrates his commitment to sharing knowledge and findings with fellow researchers. By participating in community learning and discussions, he seeks to contribute to the collective understanding of modern physics and machine learning applications, fostering an environment of collaborative growth.",
+          "font_awesome_icon": "fas fa-users"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 14,
+    "Name": "Georg Schwefer",
+    "Email": "georg.schwefer@mpi-hd.mpg.de",
+    "Position": "Ph.D. student",
+    "Affiliation": "Universit\u00e4t Heidelberg/Max-Planck-Institut f\u00fcr Kernphysik",
+    "Background": "I work in gamma-ray astronomy which is concerned with measuring the highest-energy radiation produced in the universe and understanding its cosmic origin. I work on processing data from ground-based gamma-ray observatories. These \u201csee\u201d gamma-rays through snapshots of the Cherenkov light from the particle-cascades originating from the interactions of the gamma-rays in the atmosphere. Therefore, our datasets are images of particle-cascades, produced at kHz rates each night. The goal is to denoise these images, infer the arrival direction and energy of the original gamma-rays, and filter out background images. These are tasks well-suited to the application of machine learning.",
+    "ML_Experience": "I have machine-learning experience from courses and research work.    I have taken courses on physics-related machine learning during my master\u2019s and have attended lectures and colloquia on this topic during my PhD too, providing a foundation on methods and terminologies.     On the research side, I have developed a machine-learning-based reconstruction method for Cherenkov images of gamma-ray particle-cascades. This method uses techniques from the field of simulation-based inference and, for the first time, applies them to gamma-ray astronomy. In the context of this, I have also familiarized myself with other machine-learning solutions for this task, such as tree-based methods and CNNs.",
+    "Motivation": "I think the problems solved by machine learning are quite similar between the subfields of physics, but the language in which they are thought about and thus the solutions can be quite different. I therefore hope to be inspired and learn new approaches and ways of thinking about my tasks from the lecturers and participants with different backgrounds.      In particular, I would like to learn more about the statistical and probabilistic nature and interpretation of machine-learning methods. With this, I would like to achieve more rigorous statistical uncertainties in my inference problems, which has proven difficult so far.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Gamma-Ray Astronomy",
+          "research_interest_long_description": "Max is focused on advancing our understanding of gamma-ray astronomy, which explores the highest-energy radiation in the universe. His work involves processing data from ground-based gamma-ray observatories that detect Cherenkov light generated by particle cascades from gamma-ray interactions in the atmosphere. By developing methods to denoise images of these cascades and infer key parameters like arrival direction and energy of gamma-rays, Max aims to improve the accuracy of this exciting field. His research promises to contribute significantly to the understanding of cosmic phenomena.",
+          "font_awesome_icon": "fas fa-satellite"
+        },
+        {
+          "research_interest_title": "Machine Learning Applications",
+          "research_interest_long_description": "Max is passionate about applying machine learning techniques to solve complex problems in physics. With a strong background in machine learning obtained through coursework and research, he specializes in the reconstruction of Cherenkov images of gamma-ray particle-cascades. His innovative use of simulation-based inference marks a groundbreaking application in gamma-ray astronomy. Max is eager to delve deeper into this field, exploring diverse methodologies such as tree-based approaches and convolutional neural networks, enhancing the precision and reliability of his results.",
+          "font_awesome_icon": "fas fa-user-robot"
+        },
+        {
+          "research_interest_title": "Statistical Methods in Machine Learning",
+          "research_interest_long_description": "Max seeks to enhance his understanding of the statistical and probabilistic frameworks underlying machine learning. Recognizing that the interpretation of machine learning varies across physics subfields, he is keen to learn novel approaches from colleagues with diverse backgrounds. His objective is to apply rigorous statistical techniques to improve uncertainty quantification in his gamma-ray inference tasks. By mastering these concepts, Max aims to offer more robust results in his research, contributing to the reliable interpretation of data and increasing the scientific community's confidence in his findings.",
+          "font_awesome_icon": "fas fa-chart-line"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 57,
+    "Name": "Anupam Sharma",
+    "Email": "anupam.sharma@insp.upmc.fr",
+    "Position": "Ph.D.",
+    "Affiliation": "Sorbonne University",
+    "Background": "I am a first-year PhD student working in magnetoacoustics. I study the magnetoelastic interaction between surface acoustic waves (SAWs) and spin waves (SWs) in Fe, which is doped with N, at different concentrations, to tune its magnetic parameters. I perform both SAW-induced and broadband ferromagnetic resonance (FMR) experiments. I aim to analyse my FMR data with ML to spot the resonance dips of the scattering parameter. It can be really helpful to obtain anisotropy constants and the damping parameter for Fe doped with different concentrations of N.",
+    "ML_Experience": "I have a basic experience of ML in physics. I\u2019ve written Python scripts that use\u00a0SciPy for linear regression, and carried out some non-linear model fitting in\u00a0Mathematica, giving me practical insight into optimization techniques.",
+    "Motivation": "My motivation to attend this school stems from the fact that my experience with machine learning in physics is still nascent, and I want to enhance my knowledge in this field. I look forward to learning from the lectures and exercises offered at this school, while acquiring more ideas on using ML for treating my experimental data, upon discussing/presenting my data and my experiments in more detail.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Magnetoacoustics and Surface Acoustic Waves",
+          "research_interest_long_description": "First-year PhD student, [Researcher's First Name] is dedicated to understanding the magnetoelastic interaction between surface acoustic waves (SAWs) and spin waves (SWs) in iron (Fe) doped with nitrogen (N). [Researcher's First Name]'s work involves investigating how varying concentrations of N influence the magnetic parameters of Fe, which is crucial for advancing materials with tailored magnetic properties. By conducting both SAW-induced and broadband ferromagnetic resonance (FMR) experiments, [Researcher's First Name] aims to unveil new insights into these interactions, potentially paving the way for innovative applications in magnetoacoustic devices.",
+          "font_awesome_icon": "fas fa-microchip"
+        },
+        {
+          "research_interest_title": "Machine Learning in Physics",
+          "research_interest_long_description": "[Researcher's First Name] is exploring the integration of machine learning (ML) techniques within the realm of physics, particularly in the analysis of ferromagnetic resonance data. With a foundational experience in using Python for linear regression and non-linear model fitting, [Researcher's First Name] is keen to expand their skill set in ML. This interest is driven by the potential of ML to enhance the understanding of complex datasets obtained from their experiments, helping to spot resonance dips and extract valuable magnetic parameters.",
+          "font_awesome_icon": "fas fa-brain"
+        },
+        {
+          "research_interest_title": "Experimental Data Analysis",
+          "research_interest_long_description": "[Researcher's First Name] recognizes the importance of robust data analysis methods for interpreting experimental results in magnetoacoustics. By attending workshops and engaging with experts in the field, [Researcher's First Name] aims to refine techniques for analyzing FMR data. Learning to utilize ML to identify key features such as anisotropy constants and damping parameters in Fe doped with N is central to their goals. This pursuit will not only enhance [Researcher's First Name]'s research capabilities but also contribute to the broader understanding of magnetoacoustic phenomena.",
+          "font_awesome_icon": "fas fa-chart-line"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 61,
+    "Name": "Qi-fan Wu",
+    "Email": "qifan.wu@nbi.ku.dk",
+    "Position": "Ph.D. student",
+    "Affiliation": "Niels Bohr Institute, University of Copenhagen",
+    "Background": "have a bachelor's degree in Artificial Intelligence and a master's degree in Atmospheric Science. Currently, I am working on my Ph.D. project aims to combine Physical Oceanography and Machine Learning. I would like to see if Machine Learning can discover important relationships among climate variables in ocean circulation theory",
+    "ML_Experience": "I completed my bachelor's thesis 'Translating Egyptian Hieroglyphics: A Neural Machine Translation Approach using the Sequence-to-Sequence Transformer and Torchtext,' which focuses on using machine learning to translate Egyptian Hieroglyphics. Additionally, I took a master's research project during my bachelor's studies as an extra curriculum, combining machine learning with the Maximum Entropy algorithm to study dolphin distribution and seasonal movements. For another master's thesis, I applied neural networks and symbolic regression to an Earth climate model to infer causality.",
+    "Motivation": "I would like to deepen my understanding of the mathematics behind machine learning and how to apply it to different aspects of physics.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Machine Learning in Climate Science",
+          "research_interest_long_description": "In his Ph.D. research, he focuses on leveraging machine learning techniques to uncover significant relationships among climate variables, particularly within the context of ocean circulation theory. By integrating Physical Oceanography with advanced machine learning algorithms, his goal is to enhance the understanding of complex climatic interactions. This interdisciplinary approach aims to provide new insights into how various factors contribute to ocean dynamics and their broader implications on global climate patterns.",
+          "font_awesome_icon": "fas fa-water"
+        },
+        {
+          "research_interest_title": "Neural Networks for Historical Translation",
+          "research_interest_long_description": "He has previously explored the application of neural networks in language translation, notably focusing on Egyptian Hieroglyphics. His bachelor's thesis involved developing a machine translation approach using the Sequence-to-Sequence Transformer model. This innovative work exemplifies his interest in combining language processing with artificial intelligence, showcasing the versatility of machine learning tools beyond conventional parameters.",
+          "font_awesome_icon": "fas fa-language"
+        },
+        {
+          "research_interest_title": "Causality in Climate Models",
+          "research_interest_long_description": "His master's thesis work involved the application of neural networks and symbolic regression methods to infer causality within Earth climate models. By studying the relationships between climate variables, he aims to contribute to a deeper understanding of climatic phenomena and their underlying processes. This pursuit reflects his motivation to decode complex systems and enhance predictive modeling in climate science, bridging the gap between theoretical physics and applied machine learning.",
+          "font_awesome_icon": "fas fa-brain"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 34,
+    "Name": "Chitrakshee Yede",
+    "Email": "chitrakshee.yede@uni-hamburg.de",
+    "Position": "PhD Student",
+    "Affiliation": "Institute of Experimental Physics, Universit\u00e4t Hamburg",
+    "Background": "Anomaly detection in dijet scenario with CMS data (few millions events, weak supervision)",
+    "ML_Experience": "I have two years experience in machine learning. Currently I am working on Anomaly detection using PyTorch. Previously, I have used TensorFlow as well. I have used Classifiers, Normalizing Flows, Autoencoders, GANs.",
+    "Motivation": "I would like to learn more and new applications of machine learning algorithms beyond anomaly detection. I am looking forward to understand and get more insights into the theory of these algorithms.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Anomaly Detection in High-Energy Physics",
+          "research_interest_long_description": "Currently, as a PhD student, he is focusing on anomaly detection within dijet scenarios utilizing data from the CMS experiment. This research is essential for identifying rare events that could lead to discoveries beyond the Standard Model of particle physics. By employing weak supervision techniques, he analyzes millions of events to enhance the sensitivity of experimental searches, aiming to bring new insights into the fundamental particles and forces at play in our universe.",
+          "font_awesome_icon": "fas fa-bolt"
+        },
+        {
+          "research_interest_title": "Machine Learning Algorithms in Particle Physics",
+          "research_interest_long_description": "With two years of machine learning experience, he is interested in exploring diverse applications of ML algorithms in the field of particle physics. His current work with PyTorch allows him to implement advanced concepts such as classifiers, normalizing flows, autoencoders, and GANs. By diving deeper into the theoretical aspects of these algorithms, he aims to enhance their applicability and effectiveness in analyzing complex high-energy physics datasets, driving further advancements in the field.",
+          "font_awesome_icon": "fas fa-cogs"
+        },
+        {
+          "research_interest_title": "Advancing ML Techniques for Data Analysis",
+          "research_interest_long_description": "He is eager to expand his knowledge in new machine learning methodologies and their applications in scientific research. His motivation extends beyond anomaly detection, as he seeks to understand cutting-edge algorithms that can facilitate data analysis across various disciplines. By broadening his skills, he plans to contribute to innovative solutions that enhance data interpretation and discovery in experimental physics, ultimately leading to significant breakthroughs in understanding the universe's fundamental structures.",
+          "font_awesome_icon": "fas fa-brain"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 16,
+    "Name": "Pingan Zhang",
+    "Email": "pingan.zhang@iwr.uni-heidelberg.de",
+    "Position": "Ph.D. student",
+    "Affiliation": "IWR, University of Heidelberg",
+    "Background": "I am a PhD student in numerical mathematics, working on developing innovative solutions for continuum mechanics problems (Fluid-Structure Interaction) with applications to biophysical processes (modeling mechanochemical cell movement). While my research primarily employs Finite Element methods, I aim to incorporate ML techniques into my work, e.g. operator learning for efficient local solvers.",
+    "ML_Experience": "I recently completed my master's in Scientific Computing, where I took ML courses covering both applied (ML Essentials) and theoretical (Theory of Deep Learning) aspects. During my bachelors' in Electrical Engineering and Economics, I self-studied ML and applied PINNs to solve semiconductor carrier-transport PDEs / Black-Scholes equations for my theses.",
+    "Motivation": "My motivation is twofold. First, as an engineer-turned-applied mathematician with a strong interest in physics (I chose physics as my master's application area and took courses in quantum mechanics, general relativity, statistical physics, and cosmology), I want to explore how modern ML advances can be applied to these fields. Second, I am passionate about AI for science, particularly ML-augmented PDE solvers. My long-term goal is to help bridge the gap between numerical analysis and ML for multiscale problems.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Fluid-Structure Interaction",
+          "research_interest_long_description": "As a Ph.D. student, Max focuses on innovative solutions for continuum mechanics problems, particularly in the area of Fluid-Structure Interaction. His research investigates the complex interplay between fluids and structures, especially in biophysical contexts like mechanochemical cell movement. By employing advanced numerical methods, he seeks to enhance the accuracy and efficiency of simulations that can shape our understanding of these biological processes.",
+          "font_awesome_icon": "fas fa-water"
+        },
+        {
+          "research_interest_title": "Machine Learning in Numerical Mathematics",
+          "research_interest_long_description": "Max is passionate about integrating Machine Learning techniques into numerical mathematics, particularly for enhancing Finite Element methods. With a background in Scientific Computing, he has pursued courses in both applied and theoretical aspects of ML. His research aims to leverage operator learning and other AI advancements to develop efficient local solvers, thereby improving the computational capabilities in solving complex mathematical models.",
+          "font_awesome_icon": "fas fa-brain"
+        },
+        {
+          "research_interest_title": "AI for Science",
+          "research_interest_long_description": "Motivated by the potential of AI within scientific research, Max explores how machine learning can optimize numerical analysis and improve solvers for partial differential equations (PDEs). His fascination with AI for science drives his goal of bridging the gap between applied mathematics and cutting-edge ML technologies, ensuring advancements in multiscale problem-solving are both impactful and practical. He is dedicated to expanding the role of algorithms in scientific inquiry, ultimately enhancing our understanding of complex phenomena.",
+          "font_awesome_icon": "fas fa-robot"
+        }
+      ]
+    }
+  },
+  {
+    "ID": 63,
+    "Name": "Guillem \u00c1lvarez",
+    "Email": "guillem.alvarez@ipvf.fr",
+    "Position": "PhD",
+    "Affiliation": "IPVF - Institut Photovolta\u00efque d'\u00cele-de-France",
+    "Background": "I am pursuing a PhD in photovoltaics, focusing on perovskite solar cells, a promising technology due to their high efficiency and low production costs. However, their stability remains a key challenge. We model instability mechanisms using drift-diffusion equations and analyse the correlation space of electrical parameters. We have applied Machine Learning, specifically clustering, to identify relevant subgroups of device responses, enabling direct comparison between simulations and experimental data.",
+    "ML_Experience": "During my PhD, I applied clustering techniques to analyse experimental and simulation data. I also completed a basic Machine Learning course during my master\u2019s studies and collaborated with a startup, developing predictive models for renewable energy production. These experiences have given me a strong foundation in both practical and theoretical aspects of Machine Learning.",
+    "Motivation": "I aim to deepen my Machine Learning knowledge to better integrate it with our physical models. Our work involves exploring high-dimensional parameter spaces, where ML can uncover hidden patterns and accelerate analysis. Additionally, leveraging our extensive database of solar cell simulations can lead to improved understanding of device performance and enhanced long-term stability.",
+    "researcher_badges": {
+      "research_interests": [
+        {
+          "research_interest_title": "Perovskite Solar Cells",
+          "research_interest_long_description": "Emma is focused on researching perovskite solar cells, which stand out due to their remarkable efficiency and potential for lower production costs compared to traditional solar technologies. Her work addresses critical challenges, particularly the stability of these cells over time. By employing advanced modeling techniques, including drift-diffusion equations, she aims to unravel the instability mechanisms that affect device performance. Through her efforts, Emma contributes to the quest for more reliable and economical solar energy solutions.",
+          "font_awesome_icon": "fas fa-solar-power"
+        },
+        {
+          "research_interest_title": "Machine Learning in Renewable Energy",
+          "research_interest_long_description": "Emma has been integrating Machine Learning techniques into her research as a means to analyze and predict the performance of renewable energy systems. Her expertise in clustering algorithms allows for the identification of patterns within complex datasets derived from both experimental results and simulations. This application of Machine Learning not only enhances the understanding of solar cell behavior but also aids in refining predictive models for renewable energy production, making significant impacts in the field.",
+          "font_awesome_icon": "fas fa-chart-line"
+        },
+        {
+          "research_interest_title": "High-Dimensional Parameter Space Exploration",
+          "research_interest_long_description": "In her pursuit of understanding efficient photovoltaic systems, Emma focuses on exploring high-dimensional parameter spaces using sophisticated Machine Learning strategies. Through her research, she aims to uncover hidden patterns that could enhance the analysis of solar cell simulations. By leveraging extensive databases of simulation data, Emma seeks to elucidate relationships between various electrical parameters and their impact on device stability, paving the way for advancements in solar technology.",
+          "font_awesome_icon": "fas fa-tachometer-alt"
+        }
+      ]
+    }
   }
 ]
