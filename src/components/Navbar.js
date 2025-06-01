@@ -12,7 +12,7 @@ function Navbar({ onShowProfile, onLogout, onShowHistory, showProfileButton = tr
         <Box sx={{ display: 'flex', alignItems: 'center', flexGrow: 1 }}>
           <img src={`${process.env.PUBLIC_URL}/hamlet-square.png`} alt="Logo" style={{ height: 40, marginRight: 10 }} />
           <Typography variant="h6" component="div" sx={{ flexGrow: 1, fontWeight: 'bold' }}>
-            Hamlet Meet
+            NBI PhD School Meet
           </Typography>
         </Box>
         <IconButton color="inherit" onClick={onShowHistory}>

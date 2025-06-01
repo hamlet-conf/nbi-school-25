@@ -14,10 +14,10 @@ Hamlet Meet is a tool for facilitating meaningful interactions and collaboration
    - **Logout Button:** Clears the user ID and reloads the login page.
    - **Profile Icon:** Displays the user's own profile summary.
    - **Partner ID Input:** Allows the user to enter a conversation partner's user ID.
-   - **Research Focus Summary:** Displays the partner’s research focus, key stats, and potential talking points.
+   - **Student Summary:** Displays the partner's research background, ML experience, motivation, and potential talking points.
 
 3. **Interactive Elements:**
-   - **Research Icons:** Represent different aspects of the partner's research focus and are clickable for more information.
+   - **Research Icons:** Represent different aspects of the partner's research interests and are clickable for more information.
    - **Modals:** Provide additional details about research aspects when icons are clicked.
 
 ## Technologies Used
@@ -63,8 +63,8 @@ To set up the project locally, follow these steps:
    - Enter your user ID on the login page to start the session.
    
 2. **Navigate to Home Page:**
-   - Once logged in, use the input field to enter a partner’s ID to fetch their profile.
-   - View the summary of their research focus and key stats.
+   - Once logged in, use the input field to enter a partner's ID to fetch their profile.
+   - View the summary of their research background, ML experience, and motivation.
    - Click on research icons for more detailed information in modals.
 
 3. **Logout:**
@@ -104,6 +104,6 @@ For any questions or inquiries, please contact [Your Name] at [Your Email].
 
 ## Future Plans
 
-- Add support for more detailed user profiles with publication history and recent activities.
-- Implement real-time chat functionality for instant messaging between attendees.
-- Add machine learning capabilities to suggest potential collaboration partners based on research interests and past publications.
+- Add support for more detailed student profiles with academic background and research interests.
+- Implement real-time chat functionality for instant messaging between students.
+- Add machine learning capabilities to suggest potential collaboration partners based on research interests and learning goals.

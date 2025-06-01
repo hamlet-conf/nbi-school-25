@@ -83,7 +83,7 @@ function Home({ showHistory, onShowHistory }) {
               <Box mt={6}>
                 <Divider sx={{ mb: 4 }} />
                 <Typography variant="h5" gutterBottom color="secondary">
-                  Partner Similarity
+                  Student Similarity
                 </Typography>
                 <AdaptiveTable data={allPartners} onPartnerSelect={handlePartnerFound} />
               </Box>

@@ -69,16 +69,15 @@ function PartnerProfile({ partnerData, onBack, userData }) {
               aria-controls="partner-details-content"
               id="partner-details-header"
             >
-              <Typography variant="h6">Partner Details</Typography>
+              <Typography variant="h6">Student Details</Typography>
             </AccordionSummary>
             <AccordionDetails>
               {partnerDetails.userData ? (
                 <PartnerDetails 
-                  userData={partnerDetails.userData} 
-                  contributions={partnerDetails.userData.Contributions}
+                  userData={partnerDetails.userData}
                 />
               ) : (
-                <Typography>Partner details not available.</Typography>
+                <Typography>Student details not available.</Typography>
               )}
             </AccordionDetails>
           </Accordion>

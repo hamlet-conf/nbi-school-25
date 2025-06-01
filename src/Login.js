@@ -41,8 +41,13 @@ function Login({ onLogin }) {
   return (
     <Box sx={{ flexGrow: 1, display: 'flex', flexDirection: 'column', justifyContent: 'center', minHeight: '100vh' }}>
       <Container maxWidth="sm" sx={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
-        <img src={`${process.env.PUBLIC_URL}/hamlet-square.png`} alt="Logo" style={{ height: 80, marginBottom: 20 }} />
-        <img src={`${process.env.PUBLIC_URL}/hamlet-banner.png`} alt="Conference Banner" style={{ width: '100%', marginBottom: 20 }} />
+        {/* <img src={`${process.env.PUBLIC_URL}/hamlet-square.png`} alt="Logo" style={{ height: 80, marginBottom: 20 }} /> */}
+        <img src={`${process.env.PUBLIC_URL}/banner_medium.png`} alt="Conference Banner" style={{ width: '100%', marginBottom: 20 }} />
+        
+        <Typography variant="h3" component="h1" gutterBottom color="primary" sx={{ textAlign: 'center', mb: 3 }}>
+          NBI PhD School Meet
+        </Typography>
+        
         <TextField
           label="Enter your User ID"
           variant="outlined"

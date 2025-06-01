@@ -1,13 +1,12 @@
 import React, { useState } from 'react';
-import { Typography, Grid, Box, IconButton, Modal, Button } from '@mui/material';
+import { Typography, Grid, Box, IconButton, Modal } from '@mui/material';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { fas } from '@fortawesome/free-solid-svg-icons';
-import OpenInNewIcon from '@mui/icons-material/OpenInNew';
 
 library.add(fas);
 
-function PartnerDetails({ userData, contributions }) {
+function PartnerDetails({ userData }) {
   const [modalOpen, setModalOpen] = useState(false);
   const [selectedBadge, setSelectedBadge] = useState(null);
 
@@ -28,57 +27,9 @@ function PartnerDetails({ userData, contributions }) {
         <Typography><strong>Affiliation:</strong> {userData.Affiliation}</Typography>
       </Grid>
       <Grid item xs={12}>
-        <Typography><strong>Seniority/Role:</strong> {userData['Seniority/Role']}</Typography>
+        <Typography><strong>Position:</strong> {userData.Position}</Typography>
       </Grid>
-      {userData.ORCID && (
-        <Grid item xs={12}>
-          <Typography>
-            <strong>ORCID:</strong>{' '}
-            <Button
-              variant="text"
-              color="primary"
-              endIcon={<OpenInNewIcon />}
-              href={`https://orcid.org/${userData.ORCID}`}
-              target="_blank"
-              rel="noopener noreferrer"
-              sx={{
-                textTransform: 'none',
-                fontWeight: 'normal',
-                padding: '0 4px',
-                '&:hover': {
-                  backgroundColor: 'rgba(0, 0, 0, 0.04)',
-                },
-              }}
-            >
-              {userData.ORCID}
-            </Button>
-          </Typography>
-        </Grid>
-      )}
-      {contributions && contributions.Title && (
-        <Grid item xs={12}>
-          <Typography><strong>Contribution:</strong></Typography>
-          <Button
-            variant="text"
-            color="primary"
-            endIcon={contributions.Url && <OpenInNewIcon />}
-            href={contributions.Url}
-            target="_blank"
-            rel="noopener noreferrer"
-            sx={{
-              textTransform: 'none',
-              fontWeight: 'normal',
-              justifyContent: 'flex-start',
-              padding: '4px 8px',
-              '&:hover': {
-                backgroundColor: 'rgba(0, 0, 0, 0.04)',
-              },
-            }}
-          >
-            {contributions.Title}
-          </Button>
-        </Grid>
-      )}
+      
       <Grid item xs={12}>
         <Box sx={{ mt: 3, display: 'flex', justifyContent: 'space-around' }}>
           {userData.researcher_badges.research_interests.map((badge, index) => (
