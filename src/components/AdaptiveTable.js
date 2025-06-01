@@ -102,6 +102,7 @@ function AdaptiveTable({ data, onPartnerSelect }) {
                   border: '1px solid rgba(71, 85, 105, 0.1)',
                   cursor: 'pointer',
                   transition: 'all 0.3s ease-in-out',
+                  borderRadius: 3,
                   '&:hover': {
                     transform: 'translateY(-2px)',
                     boxShadow: '0 8px 25px -8px rgba(71, 85, 105, 0.2)',

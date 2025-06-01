@@ -97,7 +97,8 @@ function Profile({ onBack }) {
                 p: 0,
                 background: 'linear-gradient(145deg, #ffffff 0%, #f8fafc 100%)',
                 border: '1px solid rgba(71, 85, 105, 0.1)',
-                overflow: 'hidden'
+                overflow: 'hidden',
+                borderRadius: 3
               }}
             >
               {/* Header Section with Gradient */}
@@ -172,7 +173,8 @@ function Profile({ onBack }) {
                 <Box sx={{ 
                   display: 'grid', 
                   gridTemplateColumns: 'repeat(auto-fit, minmax(100px, 1fr))', 
-                  gap: 2 
+                  gap: 2,
+                  justifyItems: 'center'
                 }}>
                   {userData.researcher_badges.research_interests.map((badge, index) => (
                     <Box 
@@ -209,6 +211,7 @@ function Profile({ onBack }) {
                             bottom: 0,
                             background: 'rgba(255, 255, 255, 0.1)',
                             backdropFilter: 'blur(10px)',
+                            borderRadius: 'inherit',
                           },
                           '&:hover': {
                             boxShadow: '0 12px 32px -8px rgba(0, 0, 0, 0.3)',

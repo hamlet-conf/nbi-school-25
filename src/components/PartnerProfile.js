@@ -97,6 +97,7 @@ function PartnerProfile({ partnerData, onBack, userData }) {
                     height: 'fit-content',
                     background: 'linear-gradient(145deg, #ffffff 0%, #f8fafc 100%)',
                     border: '1px solid rgba(71, 85, 105, 0.1)',
+                    borderRadius: 3
                   }}
                 >
                   <Box sx={{ textAlign: 'center', mb: 3 }}>
@@ -165,7 +166,8 @@ function PartnerProfile({ partnerData, onBack, userData }) {
                     p: 4,
                     background: 'linear-gradient(145deg, #ffffff 0%, #f8fafc 100%)',
                     border: '1px solid rgba(71, 85, 105, 0.1)',
-                    height: 'fit-content'
+                    height: 'fit-content',
+                    borderRadius: 3
                   }}
                 >
                   <Typography 
